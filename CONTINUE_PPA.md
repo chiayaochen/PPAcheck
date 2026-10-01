@@ -10,8 +10,8 @@
 
 測試：桌面 1440×1000、手機 390×844；搜尋、清除、無結果、排序、詳情、±30% 情境計算、缺值及主控台。手機溢出已修正。GitHub Pages 曾直接查到設定為 gh-pages 根目錄且 HTTPS 強制啟用。
 
-接續重點：如果工作中斷，先檢查 git status、遠端 gh-pages 與 research/QA.md 的發布紀錄；內容已完成，避免重做。尚需提交與推送、等待 Pages 部署，核對公開網址及 JSON 與本機一致，然後在本檔和 QA.md 寫入完成證據。
+完成狀態：網頁內容已提交 a00fea1 並推送 gh-pages。公開 HTML 與 JSON 皆 HTTP 200，JSON 與本機位元組一致，公開瀏覽器可載入全部 66 檔並操作搜尋／個股詳情。驗證證據及資料限制詳見 research/QA.md。沒有尚未完成的必要工作。
 
 公開網址：https://chiayaochen.github.io/ChatGPTwork/PPAcheck.html
 
-若需接續可貼：請讀取 CONTINUE_PPA.md 與 research/QA.md，從尚未完成的發布／驗證步驟繼續完成 PPAcheck.html。我已授權提交、推送 gh-pages 與驗證 GitHub Pages；保留已完成的 66 檔持股及 96 則研究，勿重做或填造資料。
+之後如要更新：先讀本檔與 README.md，保留現有網頁及研究；重新抓取官方最新持股與報價、查核新聞，修改日期和基準，再建置、測試及發布。這是新一輪更新，不要把本次快照誤當作尚未完成。

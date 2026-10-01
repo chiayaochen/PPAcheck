@@ -32,4 +32,13 @@
 
 ## 發布
 
-GitHub Pages 已直接檢視為 gh-pages 根目錄、強制 HTTPS。待寫入最終提交、公開 URL HTTP 與瀏覽器驗證結果。
+已完成。GitHub Pages 來源為 gh-pages 根目錄、強制 HTTPS，儲存庫為 public。
+
+- 內容提交：`a00fea1`，已正常推送（未 force）。
+- 公開頁面：<https://chiayaochen.github.io/ChatGPTwork/PPAcheck.html>，GET HTTP 200。
+- 公開資料：<https://chiayaochen.github.io/ChatGPTwork/data/ppa-data.json>，GET HTTP 200，下載位元組與本機檔案完全相同。
+- JSON SHA256：`877f04a575ea877b1811815240666de9205c15eea52d8b5a34140dbe5b875fa3`。
+- 公開瀏覽器載入 66 列、PPA 價格 154.62 USD；搜尋 MDA 並開啟個股新聞／分析成功，主控台警告及錯誤為空。
+- 發布後截圖位於本機 `research/qa/published-desktop.png`。
+
+資料快照不自動更新，LYNX 完整第三季缺值已明確呈現；其餘已授權需求已完成。
