@@ -16,4 +16,4 @@
 
 之後如要更新：先讀本檔與 README.md，保留現有網頁及研究；重新抓取官方最新持股與報價、查核新聞，修改日期和基準，再建置、測試及發布。這是新一輪更新，不要把本次快照誤當作尚未完成。
 
-2026-10-01 重新命名：GitHub 儲存庫與專案名稱改為 PPAcheck；origin 為 git@github.com:chiayaochen/PPAcheck.git。網站與建置腳本中的封存來源網址皆已同步改為 /PPAcheck/。本機資料夾使用 /Users/chiayaombp2023/Documents/ChatGPT/PPAcheck，舊路徑保留相容符號連結供目前 Codex 聊天使用。Codex 側欄名稱尚須使用者手動修改，因電腦操作工具禁止操作 Codex 介面。
+2026-10-01 重新命名：GitHub 儲存庫與專案名稱改為 PPAcheck；origin 為 git@github.com:chiayaochen/PPAcheck.git。網站與建置腳本中的封存來源網址皆已同步改為 /PPAcheck/。本機資料夾使用 /Users/chiayaombp2023/Documents/ChatGPT/PPAcheck，舊路徑的相容符號連結因 Codex 沙箱不支援已移除；請在 Codex 開啟新資料夾繼續工作。Codex 側欄名稱尚須使用者手動修改，因電腦操作工具禁止操作 Codex 介面。
