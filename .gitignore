@@ -1,0 +1,10 @@
+.DS_Store
+research/quotes/
+research/news-cache/
+research/news-index.json
+research/*response.txt
+research/ppa-official.csv
+research/*concept*.png
+research/*screenshot*.png
+__pycache__/
+research/qa/

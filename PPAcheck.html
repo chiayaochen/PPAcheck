@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="PPA 航太與國防 ETF 持股研究：新聞來源、股價變化、基金影響分析與情境試算。所有數據皆標示資料日期。">
+  <meta name="theme-color" content="#14283b">
+  <title>PPAcheck｜PPA 持股新聞與影響研究</title>
+  <link rel="stylesheet" href="assets/ppa.css?v=20261001">
+  <script src="assets/ppa.js?v=20261001" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳至主要內容</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="#overview" aria-label="PPAcheck 首頁"><strong>PPA</strong>check</a>
+      <nav aria-label="主要導覽">
+        <a class="active" href="#overview">總覽</a>
+        <a href="#holdings">完整持股</a>
+        <a href="#scenario">情境試算</a>
+        <a href="#methodology">資料與方法</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="page-shell">
+    <section id="overview" class="overview" aria-labelledby="page-title">
+      <h1 id="page-title">看懂 PPA，從每一檔持股開始。</h1>
+      <p class="lede">持股新聞、價格變化與影響判讀，集中在一份可追溯的資料快照。</p>
+      <div class="snapshot-line"><span class="snapshot-label">資料快照</span><span id="as-of">正在載入資料日期…</span></div>
+      <p id="freshness-note" class="freshness-note"></p>
+      <div id="load-status" class="load-status" role="status">正在載入持股、價格與研究資料…</div>
+      <div class="metrics" aria-label="基金研究總覽">
+        <div class="metric"><span>PPA 參考價格</span><strong id="fund-price">未取得</strong><small id="fund-return">以來源標示時間為準</small></div>
+        <div class="metric"><span>前十大持股比重</span><strong id="top-ten">未取得</strong><small id="weight-coverage">依持股快照計算</small></div>
+        <div class="metric"><span>單日估計貢獻</span><strong id="daily-impact">未取得</strong><small id="impact-coverage">權重 × 個股價格漲跌</small></div>
+        <div class="metric"><span>持股研究覆蓋</span><strong id="research-count">未取得</strong><small id="research-coverage">已附新聞來源的股票</small></div>
+      </div>
+    </section>
+
+    <section id="holdings" class="holdings-layout" aria-labelledby="holdings-title">
+      <div class="holdings-main">
+        <div class="section-heading"><h2 id="holdings-title">完整持股</h2><span id="holdings-count" class="muted"></span></div>
+        <div class="table-controls">
+          <label class="search-box"><span class="visually-hidden">搜尋代號、公司或產業</span><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="10.5" cy="10.5" r="6.8"/><path d="m15.5 15.5 5 5"/></svg><input id="holding-search" type="search" placeholder="搜尋代號、公司或產業" autocomplete="off" disabled></label>
+          <label class="sort-control"><span>排序</span><select id="holding-sort" disabled><option value="weight">依持股比重</option><option value="change1d">依單日漲跌</option><option value="change1m">依 9 月漲跌</option><option value="change3m">依第三季漲跌</option><option value="impact">依單日影響幅度</option><option value="ticker">依股票代號</option></select></label>
+        </div>
+        <p class="table-note">點選持股查看新聞、上行因素、下行風險與影響判讀。價格以 9/30 收盤計算；貢獻採前日比重。</p>
+        <div class="table-scroll" tabindex="0" role="region" aria-label="可捲動的完整持股表格">
+          <table id="holdings-table">
+            <thead><tr><th scope="col">持股 / 公司</th><th scope="col" class="numeric">比重</th><th scope="col" class="numeric">參考股價</th><th scope="col" class="numeric">單日</th><th scope="col" class="numeric">9 月漲跌</th><th scope="col" class="numeric">第三季</th><th scope="col" class="numeric">單日貢獻<br><span class="th-unit">百分點</span></th><th scope="col">影響判讀</th></tr></thead>
+            <tbody id="holdings-body"><tr><td colspan="8" class="empty-cell">正在載入…</td></tr></tbody>
+          </table>
+        </div>
+        <p id="table-result" class="table-caption" role="status"></p>
+      </div>
+      <aside class="research-rail" aria-labelledby="drivers-title">
+        <h2 id="drivers-title">影響 PPA 的關鍵</h2>
+        <div id="fund-summary" class="driver-list"></div>
+        <div class="concentration"><h3>持股集中度</h3><div id="concentration-bar" class="concentration-bar" aria-hidden="true"></div><div class="concentration-legend"><span><i class="top-ten-key"></i>前十大 <strong id="top-ten-legend">未取得</strong></span><span><i class="rest-key"></i>其他持股</span></div><p class="small-muted">持股比重越高，個股事件對基金的直接價格影響越大。股票比重合計略高於 100%，另有負現金項目，詳見資料與方法。</p></div>
+      </aside>
+    </section>
+
+    <section id="holding-detail" class="holding-detail" aria-labelledby="detail-title" hidden>
+      <button id="close-detail" class="text-button" type="button">← 返回完整持股</button>
+      <div class="detail-title-row"><div><h2 id="detail-title" tabindex="-1">個股研究</h2><p class="detail-subtitle">新聞如何傳導到 PPA</p></div><span id="detail-sector" class="muted"></span></div>
+      <div id="detail-metrics" class="detail-metrics"></div>
+      <p id="detail-price-note" class="small-muted"></p>
+      <div class="detail-columns">
+        <div><h3>近期新聞與來源</h3><div id="detail-news" class="news-list"></div></div>
+        <aside class="assessment"><h3>對 PPA 的影響判讀</h3><div id="detail-assessment"></div></aside>
+      </div>
+      <p class="detail-notice">此為資料快照與情境分析，並非即時報價或價格預測。新聞敘述與分析推論分開呈現。</p>
+    </section>
+
+    <section id="scenario" class="scenario-section" aria-labelledby="scenario-title">
+      <h2 id="scenario-title">把個股變化，換算成 PPA 的敏感度</h2>
+      <p class="section-intro">假設其他持股價格不變，觀察單一持股漲跌對 PPA 的近似價格影響。</p>
+      <div class="scenario-controls">
+        <label class="scenario-stock"><span>選擇持股</span><select id="scenario-ticker" disabled><option>正在載入持股…</option></select></label>
+        <div class="shock-control"><div class="shock-label"><label for="scenario-shock">個股價格變動幅度</label><output id="shock-value" for="scenario-shock">+10%</output></div><input id="scenario-shock" type="range" min="-30" max="30" step="1" value="10" disabled><div class="range-labels" aria-hidden="true"><span>−30%</span><span>0%</span><span>+30%</span></div></div>
+        <div class="scenario-result" aria-live="polite"><span>對 PPA 的近似影響</span><strong id="scenario-result">未取得</strong><small id="scenario-formula"></small></div>
+      </div>
+      <p class="calculation-note">此處為價格報酬的簡化敏感度：持股比重 × 假設漲跌幅。未計入其他持股連動、權重再平衡、費用、配息、匯率與折溢價；不代表 PPA 未來報酬。</p>
+      <div id="fund-scenarios" class="fund-scenarios"></div>
+    </section>
+
+    <section id="methodology" class="methodology-section" aria-labelledby="methodology-title">
+      <h2 id="methodology-title">資料與方法</h2>
+      <div class="method-columns"><div><h3>可追溯的資料來源</h3><ul id="sources-list" class="sources-list"></ul><a class="data-download" href="data/ppa-data.json" download>下載完整資料快照（JSON） ↗</a></div><div><h3>計算方式與研究邊界</h3><ul id="methodology-list" class="method-list"></ul><div id="limitations" class="limitations"></div></div></div>
+    </section>
+    <footer class="site-footer"><span><strong>PPA</strong>check · 持股研究資料快照</span><span id="generated-at"></span><p>僅供資訊與研究參考，不構成個人化投資建議。請依來源日期、持股異動及自身風險承受能力判讀。</p></footer>
+  </main>
+  <noscript><p class="noscript">本頁需要 JavaScript 才能讀取資料與操作表格。您也可以直接查看 <a href="data/ppa-data.json">完整 JSON 資料</a>。</p></noscript>
+</body>
+</html>

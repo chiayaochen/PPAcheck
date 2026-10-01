@@ -1,0 +1,4324 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-01T12:40:52+00:00",
+    "holdingsDate": "2026-09-30",
+    "pricesDate": "2026-09-30",
+    "newsThrough": "2026-09-30",
+    "checkedAt": "2026-10-01",
+    "returnWeightsDate": "2026-09-29",
+    "freshnessNote": "資料快照：官方持股與股價截至 2026-09-30；新聞精選截止同日、2026-10-01 查核。頁面不會自動更新，並非即時報價。",
+    "limitations": [
+      "分析方向針對未來 6–12 個月的營運條件，不是買賣評級、目標價或個人化建議；信心程度是資料與事件成熟度的質性判斷。",
+      "新聞為逐股精選，並非完整事件清單；多數為公司新聞稿，可能偏向有利敘述。未取得可核對的數據不予填造。",
+      "報價為美元美股收盤，不含盤前盤後、股息再投資、費用及台幣匯率；各公司財年可能與曆年不同。",
+      "LYNX 缺少 2026-06-30 上市價格，第三季欄位顯示「未取得」，不以 IPO 價或零填補。",
+      "9 月 30 日持股與前日有顯著變動；沒有日內交易時間與成交成本，單日貢獻只能是前日持股的近似估計，不能當作正式績效歸因。"
+    ]
+  },
+  "fund": {
+    "ticker": "PPA",
+    "name": "Invesco Aerospace & Defense ETF",
+    "quote": {
+      "price": 154.62,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.8465,
+      "change1m": -7.6289,
+      "change3m": -12.471,
+      "source": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/etf/ppa/history/"
+      }
+    },
+    "summary": [
+      {
+        "title": "大型持股決定主要方向",
+        "text": "9 月 30 日前十大占 60.31%，GE、RTX、BA、LMT 是主要曝險。正向訂單消息仍須轉成利潤，不能直接預測 ETF 上漲。"
+      },
+      {
+        "title": "飛彈與商用航空的雙重驅動",
+        "text": "RTX、LMT、LHX 的增產安排支撐長期需求；BA 認證、GE 引擎及供應鏈成本則構成執行風險。同一採購鏈的合約不可重複加總。"
+      },
+      {
+        "title": "最新持股結構已變動",
+        "text": "相較 9 月 29 日，新增 SPCX、MDA、AADX、LYNX、AVEX，股票增至 66 檔；沒有移除原 61 檔。個股單日貢獻採前日比重估計，情境試算採最新比重。"
+      },
+      {
+        "title": "基本面與股價可能不同步",
+        "text": "PPA 9 月價格變化 -7.63%、第三季 -12.47%。即使訂單增長，估值與市場預期也會影響報酬；本頁不把新聞當作單日漲跌的已證實原因。"
+      }
+    ],
+    "scenarios": [
+      {
+        "title": "需求落實的情境",
+        "text": "若多年採購變成確定訂單，且產能、交付、利潤率同步改善，核心國防持股可能支持 PPA；尚無足夠資料指定機率或目標價。"
+      },
+      {
+        "title": "執行受阻的情境",
+        "text": "若航空認證延後、工程超支或政府付款推遲，多檔供應鏈持股可能同跌。集中度會使共同衝擊放大。"
+      },
+      {
+        "title": "成長估值修正的情境",
+        "text": "即使營運成長，AI、衛星及無人系統的高預期也可能回落。RKLB／IRDM 收購與新上市股票還帶有交易、融資及短歷史風險。"
+      }
+    ],
+    "cashHoldings": [
+      {
+        "rank": 67,
+        "ticker": null,
+        "name": "SECURITIES LENDING - BNYM",
+        "weight": 0,
+        "shares": 1,
+        "marketValue": 0.01,
+        "currency": "USD",
+        "securityType": "Uninvestible Cash",
+        "type": "UCURR",
+        "cusip": "BNYMLEND",
+        "quoteTicker": null,
+        "holdingImpliedPrice": null
+      },
+      {
+        "rank": 68,
+        "ticker": "USD",
+        "name": "CASH & EQUIVALENTS",
+        "weight": -0.109813,
+        "shares": -8127204.47,
+        "marketValue": -8127204.47,
+        "currency": "USD",
+        "securityType": "Currency",
+        "type": "CURR",
+        "cusip": "CASHUSD00",
+        "quoteTicker": "USD",
+        "holdingImpliedPrice": null
+      },
+      {
+        "rank": 69,
+        "ticker": "USDPDV",
+        "name": "USD Pending Dividends",
+        "weight": null,
+        "shares": 0,
+        "marketValue": 507180.08,
+        "currency": "USD",
+        "securityType": "Currency",
+        "type": "CURR",
+        "cusip": null,
+        "quoteTicker": "USDPDV",
+        "holdingImpliedPrice": null
+      }
+    ]
+  },
+  "holdings": [
+    {
+      "ticker": "GE",
+      "name": "General Electric Co",
+      "weight": 9.101201,
+      "returnWeight": 7.003141,
+      "newSincePrior": false,
+      "price": 312.29,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.7616,
+      "change1m": -6.9763,
+      "change3m": -16.4397,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/ge/history/"
+      },
+      "sparkline": [
+        335.71,
+        331.09,
+        329.5,
+        333.48,
+        337.12,
+        334.91,
+        325.42,
+        324.15,
+        323.66,
+        317.56,
+        307.05,
+        312.9,
+        313.47,
+        314.27,
+        319.01,
+        319.22,
+        319.8,
+        319.78,
+        327.09,
+        318.24,
+        317.89,
+        312.29
+      ],
+      "news": [
+        {
+          "date": "2026-09-17",
+          "title": "GE9X 耐用性問題仍需追蹤",
+          "summary": "Reuters 報導 GE 財務長認為 GE9X 中段密封件的耐用性問題不致延誤 777X 服役。這是管理層判斷，並非監管認證或時程保證。",
+          "url": "https://www.reuters.com/business/aerospace-defense/ge-aerospace-says-ge9x-mid-seal-issue-wont-delay-boeing-777x-entry-into-service-2026-09-17/",
+          "source": "Reuters"
+        },
+        {
+          "date": "2026-09-08",
+          "title": "同意收購 CPP，擴充關鍵鑄件供應",
+          "summary": "GE Aerospace 簽署收購 Consolidated Precision Products 的協議，目標是增加引擎關鍵鑄件能力。簽約不等於已完成整合。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/08/3357518/0/en/ge-aerospace-to-acquire-consolidated-precision-products-cpp-expanding-mission-critical-castings-capacity.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "航空引擎／鑄件",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "引擎供應整合有利中長期產能，但 CPP 整合與 GE9X 技術進度同時提高執行要求。 依目前 9.1012% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.9101 個百分點；這不是報酬預測。",
+        "upside": "關鍵鑄件供應改善可加快交付並支援售後市場。",
+        "downside": "併購成本、整合干擾或 GE9X 耐用性問題可能延後現金回收。",
+        "watch": "觀察 CPP 交割及產能利用率、GE9X 修正測試與 777X 認證時程。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "RTX",
+      "name": "RTX Corp",
+      "weight": 9.043031,
+      "returnWeight": 8.043335,
+      "newSincePrior": false,
+      "price": 185.65,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.6901,
+      "change1m": -10.6292,
+      "change3m": -2.1504,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/rtx/history/"
+      },
+      "sparkline": [
+        207.73,
+        205.16,
+        200.78,
+        202.13,
+        200.79,
+        198.81,
+        197.55,
+        198.12,
+        197.68,
+        195.34,
+        195.5,
+        196.83,
+        193.54,
+        194.0,
+        194.34,
+        190.99,
+        192.19,
+        188.61,
+        189.4,
+        187.66,
+        186.94,
+        185.65
+      ],
+      "news": [
+        {
+          "date": "2026-09-29",
+          "title": "Collins 擴建引擎零件工廠",
+          "summary": "Collins 宣布增加約 14,000 平方英尺廠房，以支援商用與軍用航空零件需求；實際效益取決於設備投產與交付速度。",
+          "url": "https://www.prnewswire.com/news-releases/collins-aerospace-to-expand-engine-components-facility-to-support-growth-and-customer-demand-302892404.html",
+          "source": "公司新聞稿／PR Newswire"
+        },
+        {
+          "date": "2026-09-28",
+          "title": "AMRAAM 多年合約擴大生產規模",
+          "summary": "Raytheon 宣布取得 207 億美元 AMRAAM 多年生產合約。這是多年履約安排，不能全數當作當期營收或獲利。",
+          "url": "https://www.prnewswire.com/news-releases/rtxs-raytheon-awarded-20-7-billion-multi-year-contract-for-amraam-under-landmark-production-agreement-302891969.html",
+          "source": "公司新聞稿／PR Newswire"
+        },
+        {
+          "date": "2026-09-24",
+          "title": "首架 GTF Advantage 動力飛機交付聯合航空",
+          "summary": "Pratt & Whitney 與聯合航空公布首架採用新版本引擎的飛機交付。耐用性提升是公司的產品主張，仍須觀察實際運行表現。",
+          "url": "https://www.prnewswire.com/news-releases/rtxs-pratt--whitney-marks-delivery-of-first-gtf-advantage-powered-aircraft-to-united-airlines-302887816.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "飛彈／航空引擎",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "飛彈多年採購與引擎更新共同支持需求，是 PPA 的主要基本面支柱。收入確認與產能爬坡會比公告金額更重要。 依目前 9.0430% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.9043 個百分點；這不是報酬預測。",
+        "upside": "AMRAAM 產量提升、GTF 新版本交付及售後維修可擴大現金流。",
+        "downside": "引擎耐用性、擴產成本與多年合約定價可能壓縮利潤。",
+        "watch": "追蹤實際交付、營業現金流與引擎維修成本，未來 2–4 季驗證訂單轉化。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "BA",
+      "name": "Boeing Co/The",
+      "weight": 8.753973,
+      "returnWeight": 6.648747,
+      "newSincePrior": false,
+      "price": 186.05,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.8685,
+      "change1m": -10.4582,
+      "change3m": -14.0528,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/ba/history/"
+      },
+      "sparkline": [
+        207.78,
+        205.66,
+        208.87,
+        210.51,
+        212.25,
+        210.73,
+        206.42,
+        204.8,
+        210.45,
+        210.27,
+        209.69,
+        201.96,
+        197.0,
+        198.2,
+        201.15,
+        197.72,
+        199.93,
+        196.8,
+        198.07,
+        184.39,
+        187.68,
+        186.05
+      ],
+      "news": [
+        {
+          "date": "2026-09-30",
+          "title": "衣索比亞航空增購貨機",
+          "summary": "訂單包括 8 架 777-8 貨機與 2 架 777 貨機。訂單有助能見度，但收入仍須依製造、認證及交付認列。",
+          "url": "https://www.prnewswire.com/news-releases/ethiopian-airlines-orders-boeing-777-and-777-8-freighters-to-expand-cargo-fleet-302894976.html",
+          "source": "公司新聞稿／PR Newswire"
+        },
+        {
+          "date": "2026-09-29",
+          "title": "美國海軍選定 Boeing 執行 F/A-XX",
+          "summary": "公司宣布獲選設計、製造與交付海軍第六代戰機。早期研發與後續量產、收入認列仍是不同階段。",
+          "url": "https://www.prnewswire.com/news-releases/us-navy-selects-boeing-for-fa-xx-program-302893513.html",
+          "source": "公司新聞稿／PR Newswire"
+        },
+        {
+          "date": "2026-09-28",
+          "title": "FAA 指軟體問題將延後 MAX 10 認證",
+          "summary": "Reuters 引述 FAA 主管表示軟體問題將延後最大型 737 MAX 的認證。這增加交付節奏與現金回收的不確定性。",
+          "url": "https://www.reuters.com/world/westjet-said-it-has-not-seen-any-in-service-events-related-software-under-faa-2026-09-28/",
+          "source": "Reuters"
+        }
+      ],
+      "sector": "商用飛機／軍機",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "軍機合約與貨機訂單增加長期機會；MAX 認證延後使近期現金流仍具不確定性，對 PPA 是主要事件風險。 依目前 8.7540% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.8754 個百分點；這不是報酬預測。",
+        "upside": "新戰機研發與貨機訂單可拉長收入能見度。",
+        "downside": "認證延遲、固定價格計畫超支與生產品質問題可能抵銷訂單利多。",
+        "watch": "先看交付量、監管里程碑及自由現金流，再看遠期合約規模。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "LMT",
+      "name": "Lockheed Martin Corp",
+      "weight": 8.022435,
+      "returnWeight": 6.50784,
+      "newSincePrior": false,
+      "price": 509.25,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.5779,
+      "change1m": -9.2618,
+      "change3m": -0.0412,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/lmt/history/"
+      },
+      "sparkline": [
+        561.23,
+        544.5,
+        531.55,
+        532.95,
+        525.28,
+        536.15,
+        524.46,
+        530.12,
+        524.19,
+        529.38,
+        533.46,
+        537.25,
+        538.09,
+        533.38,
+        535.4,
+        522.34,
+        524.68,
+        523.7,
+        519.56,
+        518.1,
+        512.21,
+        509.25
+      ],
+      "news": [
+        {
+          "date": "2026-09-21",
+          "title": "PrSM Increment 2 取得 12 億美元 IDIQ 合約",
+          "summary": "第二次海上測試後，美軍授予精準打擊飛彈 Increment 2 不定交期／不定數量合約。上限金額不代表當期全部下單或收入。",
+          "url": "https://www.prnewswire.com/news-releases/lockheed-martin-secures-1-2b-contract-for-precision-strike-missile-increment-2-after-second-maritime-test-302885254.html",
+          "source": "公司新聞稿／PR Newswire"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "與 GM Defense 加速 PAC-3 零組件供應",
+          "summary": "公司公布合作後不到一個月即交付首批關鍵零件。這是供應鏈進展，整體產能仍取決於後續持續供應。",
+          "url": "https://www.prnewswire.com/news-releases/lockheed-martin-fast-tracks-pac-3-mse-components-in-less-than-one-month-in-partnership-with-gm-defense-302882126.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "飛彈／軍機",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "PrSM 與 PAC-3 供應鏈進展有助收入持續性；屬 PPA 飛彈採購主題的核心曝險。 依目前 8.0224% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.8022 個百分點；這不是報酬預測。",
+        "upside": "產能瓶頸改善、IDIQ 後續任務訂單及盟國採購支持增長。",
+        "downside": "合約上限未必全用、研發及生產成本可能增加。",
+        "watch": "追蹤實際撥款、任務訂單、飛彈交付與計畫利潤率。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "GD",
+      "name": "General Dynamics Corp",
+      "weight": 5.212593,
+      "returnWeight": 4.797245,
+      "newSincePrior": false,
+      "price": 331.83,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.1535,
+      "change1m": -10.6423,
+      "change3m": -6.3262,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/gd/history/"
+      },
+      "sparkline": [
+        371.35,
+        369.41,
+        364.07,
+        365.87,
+        359.39,
+        356.58,
+        352.67,
+        354.25,
+        355.9,
+        356.81,
+        358.6,
+        360.0,
+        355.95,
+        353.05,
+        353.9,
+        343.39,
+        343.33,
+        336.29,
+        336.72,
+        334.16,
+        332.34,
+        331.83
+      ],
+      "news": [
+        {
+          "date": "2026-08-31",
+          "title": "飛彈產能獲七年合作安排支持",
+          "summary": "Reuters 報導美國國防部門與 GD-OTS、Lockheed Martin 簽署七年增產協議。產能建置與政府採購節奏需持續確認。",
+          "url": "https://www.reuters.com/business/aerospace-defense/pentagon-signs-7-year-deals-increase-missile-production-2026-08-31/",
+          "source": "Reuters"
+        },
+        {
+          "date": "2026-08-07",
+          "title": "GDIT 取得國民兵網路與資安合約",
+          "summary": "公司公布 13 億美元企業網路運作及資安支援合約，服務陸軍國民兵。合約總值與逐年實際收入不同。",
+          "url": "https://www.prnewswire.com/news-releases/gdit-awarded-1-3-billion-enterprise-network-operations-and-cybersecurity-support-contract-for-the-army-national-guard-302846187.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "軍事平台／資訊服務",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "網路資安長約與彈藥供應布局使收入來源較分散，對 PPA 提供成熟國防業務曝險。 依目前 5.2126% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.5213 個百分點；這不是報酬預測。",
+        "upside": "服務合約延續、飛彈產能擴張可帶動收入。",
+        "downside": "人工與材料成本、政府預算延遲可能影響現金流。",
+        "watch": "追蹤 GDIT 訂單、各業務利潤率與新增產能的現金投入。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "NOC",
+      "name": "Northrop Grumman Corp",
+      "weight": 4.72478,
+      "returnWeight": 4.93158,
+      "newSincePrior": false,
+      "price": 483.48,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -4.1874,
+      "change1m": -10.4169,
+      "change3m": -5.0716,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/noc/history/"
+      },
+      "sparkline": [
+        539.7,
+        532.91,
+        523.82,
+        528.24,
+        514.98,
+        518.58,
+        515.57,
+        518.95,
+        518.97,
+        527.39,
+        531.25,
+        530.78,
+        524.0,
+        527.39,
+        526.66,
+        509.86,
+        514.42,
+        508.98,
+        510.52,
+        505.8,
+        504.61,
+        483.48
+      ],
+      "news": [
+        {
+          "date": "2026-09-14",
+          "title": "Sentinel 完成惰性飛彈組裝里程碑",
+          "summary": "公司與空軍完成非作戰彈體組裝，朝飛行測試推進；尚不能等同正式部署或完成全部開發風險。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/14/3361464/189/en/u-s-air-force-and-northrop-grumman-assemble-inert-missile-progress-toward-sentinel-flight-testing.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        },
+        {
+          "date": "2026-08-03",
+          "title": "30 億美元框架協議支援攔截彈增產",
+          "summary": "與美國國防部門及 Lockheed Martin 達成多年生產框架。後續訂單、撥款與交付決定收入落實程度。",
+          "url": "https://www.globenewswire.com/news-release/2026/08/03/3337477/189/en/Northrop-Grumman-Enters-Into-3-Billion-Landmark-Agreements-to-Accelerate-Missile-Interceptor-Production.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "戰略系統／國防航太",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "戰略飛彈測試與攔截彈框架支撐需求，但長期開發案的時程與成本使獲利路徑較不確定。 依目前 4.7248% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.4725 個百分點；這不是報酬預測。",
+        "upside": "Sentinel 飛行測試通過、攔截彈增產落實有助能見度。",
+        "downside": "重大開發計畫若延誤或超支，可能削弱增長效益。",
+        "watch": "確認下一個測試節點、成本估計修正及框架轉成訂單的比例。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "HWM",
+      "name": "Howmet Aerospace Inc",
+      "weight": 4.149635,
+      "returnWeight": 4.083159,
+      "newSincePrior": false,
+      "price": 226.18,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -2.0611,
+      "change1m": -7.6628,
+      "change3m": -15.8744,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/hwm/history/"
+      },
+      "sparkline": [
+        244.95,
+        254.89,
+        252.96,
+        260.49,
+        259.27,
+        231.53,
+        232.62,
+        227.91,
+        229.61,
+        227.13,
+        224.67,
+        227.73,
+        225.76,
+        229.67,
+        227.37,
+        225.36,
+        228.78,
+        229.38,
+        232.48,
+        228.32,
+        230.94,
+        226.18
+      ],
+      "news": [
+        {
+          "date": "2026-09-09",
+          "title": "客戶 GE 收購鑄件商，供應鏈競爭值得觀察",
+          "summary": "Reuters 訪問 Howmet 執行長，表示對 GE 收購 CPP 持正面態度，並持續努力滿足引擎零件需求。客戶垂直整合的長期影響仍待觀察。",
+          "url": "https://www.reuters.com/legal/transactional/howmet-ceo-fine-with-ge-aerospace-deal-working-meet-demand-engine-parts-2026-09-09/",
+          "source": "Reuters"
+        },
+        {
+          "date": "2026-08-06",
+          "title": "第二季營收增長 24%，有機增長 21%",
+          "summary": "公司公布第二季營收年增 24%、有機增長 21%，GAAP 與調整後每股盈餘均為 1.33 美元。增長與現金創造支持擴產能力。",
+          "url": "https://www.prnewswire.com/news-releases/howmet-aerospace-reports-second-quarter-2026-results-302844230.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "引擎零件／精密鑄件",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "有機成長提供比單純訂單更直接的需求證據；但客戶自建供應鏈使長期競爭關係值得重估。 依目前 4.1496% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.4150 個百分點；這不是報酬預測。",
+        "upside": "引擎產量與高附加價值零件需求可支撐獲利。",
+        "downside": "客戶垂直整合、原料成本與擴產良率可能壓縮定價空間。",
+        "watch": "比較訂單、實際產量、利潤率與主要客戶採購比重的變化。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "HONA",
+      "name": "Honeywell Aerospace Inc",
+      "weight": 3.829534,
+      "returnWeight": 3.436098,
+      "newSincePrior": false,
+      "price": 154.97,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.3024,
+      "change1m": -1.986,
+      "change3m": -29.9032,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/hona/history/"
+      },
+      "sparkline": [
+        158.11,
+        154.24,
+        152.55,
+        154.96,
+        161.01,
+        155.42,
+        151.58,
+        153.75,
+        158.26,
+        164.08,
+        158.5,
+        164.18,
+        167.13,
+        163.6,
+        169.03,
+        167.32,
+        163.33,
+        158.46,
+        158.78,
+        152.32,
+        155.44,
+        154.97
+      ],
+      "news": [
+        {
+          "date": "2026-08-05",
+          "title": "第二季收入增長，但獲利受分拆等費用影響",
+          "summary": "Honeywell Aerospace 第二季營收 45.22 億美元、年增 5%；調整後 EBIT 年減 7%，公司更新全年展望。此標的是分拆後 HONA，不是 HON。",
+          "url": "https://investor.honeywellaerospace.com/news-releases/news-release-details/honeywell-aerospace-reports-second-quarter-results-updates-2026",
+          "source": "Honeywell Aerospace"
+        }
+      ],
+      "sector": "航太設備／引擎系統",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "分拆後獨立營運有助聚焦，但營收增長未同步帶動調整後獲利，近期更需要證明利潤恢復。 依目前 3.8295% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.3830 個百分點；這不是報酬預測。",
+        "upside": "積壓訂單轉化、分拆費用退坡可改善獲利品質。",
+        "downside": "獨立營運成本與存貨調整若持續，可能拖累 PPA 航太曝險。",
+        "watch": "追蹤毛利、調整後 EBIT、一次性費用及自由現金流。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "weight": 3.78017,
+      "returnWeight": 3.645703,
+      "newSincePrior": false,
+      "price": 236.78,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.1311,
+      "change1m": -11.0685,
+      "change3m": -18.5175,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/lhx/history/"
+      },
+      "sparkline": [
+        266.25,
+        263.56,
+        261.31,
+        262.14,
+        256.45,
+        255.74,
+        250.41,
+        248.37,
+        245.54,
+        248.93,
+        249.66,
+        250.74,
+        250.46,
+        247.29,
+        246.93,
+        239.89,
+        239.21,
+        238.04,
+        237.69,
+        237.7,
+        236.47,
+        236.78
+      ],
+      "news": [
+        {
+          "date": "2026-09-29",
+          "title": "THAAD 推進系統獲多年合約",
+          "summary": "公司宣布自 Lockheed Martin 取得七年、超過 60 億美元且條款尚未完全定案的合約。需追蹤最終價格、成本與交付安排。",
+          "url": "https://www.businesswire.com/news/home/20260928234970/en/L3Harris-Receives-THAAD-Propulsion-Contract-Valued-at-6-Billion/",
+          "source": "公司新聞稿／Business Wire"
+        },
+        {
+          "date": "2026-09-08",
+          "title": "PAC-3 MSE 推進系統合約達 47 億美元",
+          "summary": "七年合約由 Lockheed Martin 授予，仍屬未完全定案的合約。與 PPA 內其他飛彈供應商有共同計畫曝險，不能把相關合約金額簡單相加。",
+          "url": "https://www.businesswire.com/news/home/20260908385058/en/L3Harris-Receives-Landmark-PAC%E2%80%913-MSE-Propulsion-Contract-to-Power-America%E2%80%99s-Arsenal-of-Freedom/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "飛彈推進／國防電子",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "THAAD 與 PAC-3 多年安排增加能見度，但尚未定案的條款使公告金額不等同已鎖定利潤。 依目前 3.7802% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.3780 個百分點；這不是報酬預測。",
+        "upside": "推進系統擴產及穩定採購可提高設備利用率。",
+        "downside": "價格條款未定、原料與人力成本上升、單一計畫依賴是風險。",
+        "watch": "追蹤合約定案、產能投資回收與交付進度；與 LMT 的共同曝險一起評估。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "PH",
+      "name": "Parker-Hannifin Corp",
+      "weight": 3.688344,
+      "returnWeight": 4.092208,
+      "newSincePrior": false,
+      "price": 955.42,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.5406,
+      "change1m": -2.4524,
+      "change3m": -2.3208,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/ph/history/"
+      },
+      "sparkline": [
+        979.44,
+        952.09,
+        949.38,
+        964.52,
+        962.59,
+        955.87,
+        949.47,
+        934.34,
+        950.23,
+        928.83,
+        925.0,
+        918.75,
+        925.29,
+        943.54,
+        958.17,
+        964.85,
+        971.21,
+        974.98,
+        978.33,
+        969.55,
+        970.37,
+        955.42
+      ],
+      "news": [
+        {
+          "date": "2026-08-13",
+          "title": "完成 Filtration Group 收購",
+          "summary": "Parker 宣布收購交割完成，擴大工業過濾業務。產品組合更加多元，也帶來整合與資金配置需求。",
+          "url": "https://www.globenewswire.com/news-release/2026/08/13/3344575/0/en/parker-completes-acquisition-of-filtration-group-corporation.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        },
+        {
+          "date": "2026-08-06",
+          "title": "2026 財年第四季與全年業績創紀錄",
+          "summary": "公司公布截至 2026 財年末的季度與全年業績，表示達成紀錄水準；財年期間不等同曆年第四季。",
+          "url": "https://www.globenewswire.com/news-release/2026/08/06/3340147/0/en/parker-reports-record-fiscal-2026-fourth-quarter-and-full-year-results.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "航太控制／工業過濾",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "收購擴大過濾平台，也讓 PPA 間接承擔更多一般工業景氣與整合風險。 依目前 3.6883% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.3688 個百分點；這不是報酬預測。",
+        "upside": "產品交叉銷售與營運改善有機會提高利潤。",
+        "downside": "整合費用、債務及工業需求放緩可能壓抑回報。",
+        "watch": "觀察收購後有機成長、現金轉換與負債下降速度。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "TDG",
+      "name": "TransDigm Group Inc",
+      "weight": 3.380738,
+      "returnWeight": 3.019074,
+      "newSincePrior": false,
+      "price": 1082.6,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.563,
+      "change1m": -7.6075,
+      "change3m": -18.7262,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/tdg/history/"
+      },
+      "sparkline": [
+        1171.74,
+        1155.76,
+        1153.75,
+        1157.83,
+        1162.05,
+        1145.14,
+        1125.68,
+        1126.88,
+        1140.32,
+        1111.22,
+        1085.0,
+        1080.11,
+        1076.01,
+        1086.05,
+        1109.65,
+        1112.42,
+        1105.28,
+        1105.28,
+        1116.2,
+        1109.22,
+        1099.79,
+        1082.6
+      ],
+      "news": [
+        {
+          "date": "2026-09-28",
+          "title": "完成 Prince & Izant 收購",
+          "summary": "TransDigm 宣布完成收購航太材料與接合產品供應商，延伸零組件平台。後續應觀察整合後的獲利與債務承擔。",
+          "url": "https://www.prnewswire.com/news-releases/transdigm-completes-acquisition-of-prince--izant-302891427.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "航太零組件／售後",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "持續併購可擴大專用零件平台，但價值創造須高於融資與整合成本。 依目前 3.3807% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.3381 個百分點；這不是報酬預測。",
+        "upside": "售後需求、定價能力與新收購協同可支援現金流。",
+        "downside": "負債、需求下滑及客戶價格壓力可能放大回撤。",
+        "watch": "看收購後現金流、槓桿及有機成長，區分併購貢獻。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "ESLT",
+      "name": "Elbit Systems Ltd",
+      "weight": 2.685958,
+      "returnWeight": 3.387212,
+      "newSincePrior": false,
+      "price": 682.01,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -3.0368,
+      "change1m": -2.6409,
+      "change3m": -10.1104,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/eslt/history/"
+      },
+      "sparkline": [
+        700.51,
+        708.7,
+        709.2,
+        701.22,
+        703.28,
+        708.51,
+        714.4,
+        723.91,
+        728.0,
+        724.91,
+        731.75,
+        738.16,
+        748.56,
+        743.35,
+        750.69,
+        744.75,
+        742.49,
+        739.72,
+        735.0,
+        704.27,
+        703.37,
+        682.01
+      ],
+      "news": [
+        {
+          "date": "2026-08-11",
+          "title": "第二季成長與 320 億美元積壓訂單",
+          "summary": "Elbit 第二季營收約 22.87 億美元，上年同期約 19.73 億美元；積壓訂單約 320 億美元。長期能見度改善，但交付與地緣政治限制仍重要。",
+          "url": "https://www.elbitsystems.com/news/elbit-systems-reports-second-quarter-2026-results",
+          "source": "Elbit Systems"
+        }
+      ],
+      "sector": "國防電子／無人系統",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "營收與積壓訂單提供需求支持，對 PPA 增加美國以外的國防業務來源。 依目前 2.6860% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.2686 個百分點；這不是報酬預測。",
+        "upside": "多國採購與既有訂單交付可推升規模。",
+        "downside": "出口許可、區域衝突與供應鏈中斷可能延後交付或收款。",
+        "watch": "追蹤訂單轉換率、地區分布、營運資金與出口限制。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "APH",
+      "name": "Amphenol Corp",
+      "weight": 2.366954,
+      "returnWeight": 2.953444,
+      "newSincePrior": false,
+      "price": 84.3,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.0474,
+      "change1m": 6.332,
+      "change3m": -4.3784,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/aph/history/"
+      },
+      "sparkline": [
+        79.28,
+        81.59,
+        80.04,
+        82.07,
+        82.78,
+        81.76,
+        81.34,
+        80.25,
+        83.92,
+        78.55,
+        77.65,
+        77.26,
+        78.37,
+        77.55,
+        80.72,
+        82.84,
+        82.19,
+        83.08,
+        84.09,
+        84.62,
+        84.34,
+        84.3
+      ],
+      "news": [
+        {
+          "date": "2026-08-06",
+          "title": "宣布一股拆為兩股",
+          "summary": "股票分割改變每股單位，不會自行增加公司價值。本頁使用來源已調整分割的歷史收盤序列，避免把拆股誤判為價格暴跌。",
+          "url": "https://investors.amphenol.com/news-and-events/news-details/2026/Amphenol-Announces-Two-for-One-Stock-Split-and-Third-Quarter-2026-Dividend/default.aspx",
+          "source": "Amphenol"
+        },
+        {
+          "date": "2026-07-29",
+          "title": "第二季營收 88 億美元，有機增長 30%",
+          "summary": "營收年增 55%，包含併購影響；訂單 107 億美元、訂單出貨比 1.23。AI 資料通訊需求是成長來源之一，不能全數歸為國防需求。",
+          "url": "https://investors.amphenol.com/news-and-events/news-details/2026/Amphenol-Reports-Record-Second-Quarter-2026-Results/default.aspx",
+          "source": "Amphenol"
+        }
+      ],
+      "sector": "連接器／資料通訊",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "強勁有機增長為 PPA 帶來 AI 與連接技術曝險，不能只用軍費預算解釋其表現。 依目前 2.3670% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.2367 個百分點；這不是報酬預測。",
+        "upside": "訂單出貨比高於 1，有助近期需求能見度。",
+        "downside": "資料中心投資降溫、併購整合與成長預期過高可能壓抑估值。",
+        "watch": "觀察訂單、有機成長與利潤率；拆股只調整單位，不作利多打分。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "AXON",
+      "name": "Axon Enterprise Inc",
+      "weight": 2.095974,
+      "returnWeight": 2.833905,
+      "newSincePrior": false,
+      "price": 422.52,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.7007,
+      "change1m": -25.4236,
+      "change3m": -24.6321,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/axon/history/"
+      },
+      "sparkline": [
+        566.56,
+        518.3,
+        506.98,
+        538.15,
+        515.67,
+        505.43,
+        490.0,
+        478.85,
+        479.34,
+        490.18,
+        442.08,
+        468.42,
+        453.5,
+        447.76,
+        452.06,
+        459.32,
+        450.61,
+        445.0,
+        430.11,
+        424.75,
+        419.58,
+        422.52
+      ],
+      "news": [
+        {
+          "date": "2026-09-16",
+          "title": "發行 10 億美元零息可轉換債定價",
+          "summary": "公司宣布 2031 年到期可轉換債的定價，票面利率為零。零息不代表沒有資金成本，仍有轉股稀釋與到期償還風險。",
+          "url": "https://www.prnewswire.com/news-releases/axon-announces-pricing-of-1-0-billion-offering-of-0-convertible-senior-notes-due-2031--302880063.html",
+          "source": "公司新聞稿／PR Newswire"
+        },
+        {
+          "date": "2026-08-05",
+          "title": "服務組合及新產品擴張壓低毛利率",
+          "summary": "Reuters 報導第二季毛利率下降，原因包括較低利潤的專業服務比重提高及新產品擴張投入。收入增長需要搭配利潤品質評估。",
+          "url": "https://www.reuters.com/business/aerospace-defense/axon-posts-lower-quarterly-gross-margin-higher-mix-services-new-product-scaling-2026-08-05/",
+          "source": "Reuters"
+        }
+      ],
+      "sector": "公共安全／軟體",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "產品擴張與可轉債資金支持成長，但毛利率壓力顯示放大收入未必同步放大獲利。 依目前 2.0960% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.2096 個百分點；這不是報酬預測。",
+        "upside": "軟體服務與裝置普及可提高長期客戶價值。",
+        "downside": "新產品投資、服務組合及潛在轉股稀釋增加股價敏感度。",
+        "watch": "追蹤毛利率、持續性收入及股數變化。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "ETN",
+      "name": "Eaton Corp PLC",
+      "weight": 2.052828,
+      "returnWeight": 2.500471,
+      "newSincePrior": false,
+      "price": 429.71,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.8217,
+      "change1m": 6.925,
+      "change3m": 0.8425,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/etn/history/"
+      },
+      "sparkline": [
+        401.88,
+        390.71,
+        390.85,
+        397.12,
+        410.85,
+        422.13,
+        415.22,
+        409.15,
+        425.37,
+        393.16,
+        392.4,
+        397.8,
+        409.46,
+        424.77,
+        435.43,
+        442.49,
+        438.76,
+        440.0,
+        439.98,
+        431.41,
+        433.27,
+        429.71
+      ],
+      "news": [
+        {
+          "date": "2026-09-25",
+          "title": "同意收購 COL Group 擴充電力設備能力",
+          "summary": "Eaton 宣布簽署收購協議，以增加歐洲、中東與非洲的資料中心及公用事業製造能力。這類需求屬 PPA 持股中的非軍工成長來源。",
+          "url": "https://www.businesswire.com/news/home/20260924967260/en/Eaton-signs-agreement-to-acquire-COL-Group-expanding-manufacturing-capacity-and-capabilities-for-data-center-and-utility-markets-in-EMEA/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "電力管理／航太設備",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "資料中心擴產讓 PPA 受惠於電力基建需求，亦增加與科技資本支出循環的連動。 依目前 2.0528% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.2053 個百分點；這不是報酬預測。",
+        "upside": "COL 交易若落實，產能和地區覆蓋可增強。",
+        "downside": "交易整合、電力設備供應或客戶資本支出放緩會影響回報。",
+        "watch": "確認交割、增量訂單、有機收入與產能利用率。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies Inc",
+      "weight": 1.675858,
+      "returnWeight": 2.075909,
+      "newSincePrior": false,
+      "price": 187.05,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.0428,
+      "change1m": 0.3595,
+      "change3m": 60.324,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/pltr/history/"
+      },
+      "sparkline": [
+        186.38,
+        179.92,
+        169.46,
+        182.53,
+        174.33,
+        170.3,
+        169.53,
+        165.86,
+        167.23,
+        173.31,
+        172.56,
+        174.34,
+        176.24,
+        177.64,
+        183.09,
+        184.99,
+        191.79,
+        192.59,
+        189.67,
+        187.48,
+        186.97,
+        187.05
+      ],
+      "news": [
+        {
+          "date": "2026-08-03",
+          "title": "第二季營收年增 93%",
+          "summary": "營收約 19.35 億美元；美國商業收入年增 149%，美國政府收入年增 90%。這是已公布的營運成長，未來股價仍取決於能否超越市場預期。",
+          "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000039/a2026q2ex991pressrelease.htm",
+          "source": "Palantir／SEC"
+        }
+      ],
+      "sector": "國防資料／AI 軟體",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "政府與商業需求同步成長，提升 PPA 的軟體曝險；營運正向不代表目前股價必然上漲。 依目前 1.6759% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.1676 個百分點；這不是報酬預測。",
+        "upside": "高增長持續、部署擴張與軟體營運槓桿可提升獲利。",
+        "downside": "高成長預期、競爭及合約轉化失速可能帶來估值壓縮。",
+        "watch": "比較下一季成長與市場預期，並留意股酬、現金流及大客戶集中。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "ATI",
+      "name": "ATI Inc",
+      "weight": 1.499051,
+      "returnWeight": 1.753914,
+      "newSincePrior": false,
+      "price": 189.4,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.2382,
+      "change1m": -7.2478,
+      "change3m": -3.9066,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/ati/history/"
+      },
+      "sparkline": [
+        204.2,
+        200.95,
+        201.69,
+        204.54,
+        210.65,
+        207.32,
+        206.54,
+        199.0,
+        198.77,
+        188.15,
+        186.69,
+        189.65,
+        183.64,
+        191.63,
+        189.16,
+        186.56,
+        184.18,
+        186.21,
+        185.48,
+        180.67,
+        188.95,
+        189.4
+      ],
+      "news": [
+        {
+          "date": "2026-08-06",
+          "title": "第二季優於原展望並上調全年預期",
+          "summary": "公司公布淨利年增 50%、調整後 EBITDA 年增 37%、GAAP 每股盈餘年增 56%，並提高全年展望。這反映航太材料需求，但展望仍有執行風險。",
+          "url": "https://www.prnewswire.com/news-releases/ati-announces-second-quarter-2026-results-302844440.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "高性能合金",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "上調展望且獲利增長，支持航太材料需求正在轉為財務成果的判斷。 依目前 1.4991% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.1499 個百分點；這不是報酬預測。",
+        "upside": "產量、產品組合與高性能材料需求可提高利潤。",
+        "downside": "原料成本、產線良率或客戶生產延誤可能削弱增長。",
+        "watch": "看出貨量、利潤率及擴產投資是否依計畫轉成現金。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "HEI",
+      "name": "HEICO Corp",
+      "weight": 1.233003,
+      "returnWeight": 1.579844,
+      "newSincePrior": false,
+      "price": 303.18,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.2797,
+      "change1m": -8.4463,
+      "change3m": -14.8825,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/hei/history/"
+      },
+      "sparkline": [
+        331.15,
+        325.15,
+        322.9,
+        325.7,
+        325.48,
+        316.1,
+        312.32,
+        312.49,
+        316.0,
+        303.75,
+        296.85,
+        299.43,
+        296.48,
+        298.22,
+        303.03,
+        307.77,
+        310.57,
+        306.33,
+        308.53,
+        304.61,
+        307.11,
+        303.18
+      ],
+      "news": [
+        {
+          "date": "2026-08-25",
+          "title": "第三財季淨利增長 33%、營收增長 23%",
+          "summary": "HEICO 公布季度淨利約 2.354 億美元，有機營收增長 14%。本頁 HEI 指航太供應商 HEICO，不是夏威夷電力。",
+          "url": "https://heico.com/2026/08/25/heico-corporation-reports-record-net-income-up-33-on-record-operating-income-up-34-and-record-net-sales-up-23-for-the-third-quarter-of-fiscal-2026/",
+          "source": "HEICO"
+        }
+      ],
+      "sector": "航太售後／電子零件",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "有機成長與獲利增長支持售後平台擴張，對 PPA 提供較分散的航空維修收入來源。 依目前 1.2330% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.1233 個百分點；這不是報酬預測。",
+        "upside": "維修需求與替代零件滲透可擴大市場。",
+        "downside": "收購整合、定價壓力與航空活動放緩可能降低增速。",
+        "watch": "比較有機成長、收購成長與現金轉換率。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "CW",
+      "name": "Curtiss-Wright Corp",
+      "weight": 1.212674,
+      "returnWeight": 1.394033,
+      "newSincePrior": false,
+      "price": 543.82,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 1.8676,
+      "change1m": -6.6452,
+      "change3m": -28.2332,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/cw/history/"
+      },
+      "sparkline": [
+        582.53,
+        577.99,
+        561.53,
+        568.72,
+        566.75,
+        572.71,
+        565.34,
+        559.74,
+        558.9,
+        551.21,
+        562.85,
+        570.04,
+        567.45,
+        568.27,
+        568.02,
+        550.27,
+        545.15,
+        544.21,
+        539.73,
+        532.36,
+        533.85,
+        543.82
+      ],
+      "news": [
+        {
+          "date": "2026-09-22",
+          "title": "公布預定領導層交接",
+          "summary": "公司宣布管理階層繼任安排。應觀察交接期間既有業務策略與交付紀律是否延續，不能把人事公告直接解讀為財務改善。",
+          "url": "https://www.businesswire.com/news/home/20260922646561/en/Curtiss-Wright-Announces-Leadership-Transition/",
+          "source": "公司新聞稿／Business Wire"
+        },
+        {
+          "date": "2026-08-31",
+          "title": "獲 Leidos 約 4,000 萬美元供應合約",
+          "summary": "Curtiss-Wright 將供應陸軍間接火力防護計畫的機電致動及任務運算設備。它與 LDOS 的曝險涉及同一採購鏈。",
+          "url": "https://www.businesswire.com/news/home/20260831194025/en/Curtiss-Wright-Awarded-40-Million-in-Contracts-by-Leidos-to-Supply-Electromechanical-Actuation-and-Mission-Computing-for-U.S.-Army-Indirect-Fire-Protection-Capability-Program/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "致動器／任務運算",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "IFPC 供應合約增加國防電子需求能見度；管理交接則需觀察執行延續性。 依目前 1.2127% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.1213 個百分點；這不是報酬預測。",
+        "upside": "新裝備生產與任務電腦交付可改善規模。",
+        "downside": "與主承包商排程連動、成本及交接干擾是風險。",
+        "watch": "確認 Leidos 合約交付、各部門利潤與管理團隊交接進度。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "CRS",
+      "name": "Carpenter Technology Corp",
+      "weight": 1.103952,
+      "returnWeight": 1.353364,
+      "newSincePrior": false,
+      "price": 388.82,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.7454,
+      "change1m": -18.3871,
+      "change3m": -36.9658,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/crs/history/"
+      },
+      "sparkline": [
+        476.42,
+        473.06,
+        460.97,
+        467.48,
+        475.33,
+        458.56,
+        458.45,
+        448.25,
+        443.19,
+        420.38,
+        415.32,
+        411.8,
+        406.71,
+        408.12,
+        402.9,
+        400.02,
+        395.03,
+        400.85,
+        396.84,
+        385.3,
+        391.74,
+        388.82
+      ],
+      "news": [
+        {
+          "date": "2026-08-12",
+          "title": "新增 10 億美元庫藏股授權",
+          "summary": "董事會在完成前次授權後，再批准 10 億美元買回計畫。授權並不等於全部買回已執行，金額與時點取決於資本配置。",
+          "url": "https://www.globenewswire.com/news-release/2026/08/12/3344119/0/en/carpenter-technology-announces-additional-1-0-billion-share-repurchase-program-following-completion-of-prior-authorization.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "特殊合金",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "庫藏股反映資本配置意圖，並不能替代航太合金需求與現金創造的證據。 依目前 1.1040% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.1104 個百分點；這不是報酬預測。",
+        "upside": "現金充足下的買回與高端合金需求可支持每股價值。",
+        "downside": "若買回價格偏高或擠壓擴產資金，回報可能有限。",
+        "watch": "追蹤實際買回、淨負債及合金交付利潤。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "WWD",
+      "name": "Woodward Inc",
+      "weight": 1.038968,
+      "returnWeight": 1.313789,
+      "newSincePrior": false,
+      "price": 328.59,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.3608,
+      "change1m": -3.3047,
+      "change3m": -22.7647,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/wwd/history/"
+      },
+      "sparkline": [
+        339.82,
+        336.58,
+        335.52,
+        342.56,
+        346.22,
+        339.27,
+        337.66,
+        332.76,
+        337.26,
+        324.67,
+        319.5,
+        318.45,
+        319.56,
+        321.74,
+        325.16,
+        326.14,
+        326.23,
+        325.88,
+        330.31,
+        325.94,
+        329.78,
+        328.59
+      ],
+      "news": [
+        {
+          "date": "2026-09-21",
+          "title": "規劃轉移航太控制系統生產據點",
+          "summary": "公司計畫將加州 Santa Clarita 的相關生產移往南卡羅來納 Spartanburg。整合可能改善效率，搬遷過程也需維持品質與供貨。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/21/3365897/32326/en/woodward-plans-to-transition-its-santa-clarita-california-aerospace-controls-production-to-spartanburg-south-carolina.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "航太／工業控制",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "生產整併可能改善長期效率，近期卻須管理搬遷及認證干擾。 依目前 1.0390% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.1039 個百分點；這不是報酬預測。",
+        "upside": "工廠整合與控制系統需求可提高利用率。",
+        "downside": "搬遷停工、客戶認證延誤或成本超支可能拖累交付。",
+        "watch": "觀察移轉時程、一次性費用、準時交付率與毛利變化。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "RKLB",
+      "name": "Rocket Lab Corp",
+      "weight": 1.033554,
+      "returnWeight": 1.875921,
+      "newSincePrior": false,
+      "price": 69.68,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.0287,
+      "change1m": 9.0113,
+      "change3m": -31.4511,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/rklb/history/"
+      },
+      "sparkline": [
+        63.92,
+        62.54,
+        63.1,
+        63.81,
+        64.26,
+        65.87,
+        63.07,
+        61.96,
+        62.95,
+        62.55,
+        63.55,
+        63.7,
+        67.82,
+        64.57,
+        69.89,
+        71.98,
+        70.31,
+        73.61,
+        73.95,
+        72.19,
+        69.7,
+        69.68
+      ],
+      "news": [
+        {
+          "date": "2026-09-30",
+          "title": "Synspective 簽訂 20 次 Electron 發射合約",
+          "summary": "公司宣布有史以來最大的 Electron 商業發射合約。20 次發射是未來履約量，不能視為已完成任務或立即營收。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/30/3372466/0/en/rocket-lab-secures-largest-ever-electron-commercial-deal-20-launch-contract-for-synspective.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "宣布收購 Iridium，交易仍待完成",
+          "summary": "公司於 6 月 29 日宣布企業價值約 80 億美元的收購，對價包含現金與受區間條款影響的股票。交易尚待批准；PPA 同時持有雙方，風險會連動。",
+          "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+          "source": "Rocket Lab／Iridium"
+        }
+      ],
+      "sector": "太空發射／衛星系統",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "low",
+        "thesis": "20 次發射合約支持 Electron 業務，Iridium 收購則使公司面臨更大的融資與整合轉型。 依目前 1.0336% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.1034 個百分點；這不是報酬預測。",
+        "upside": "任務可靠度與履約頻率提升，併購協同落實可增加規模。",
+        "downside": "發射失敗、資本支出、收購條件與整合成本可能壓抑現金流。",
+        "watch": "核對發射時程、收購批准和融資條款；與 IRDM 的持股風險合併觀察。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies Corp",
+      "weight": 0.944827,
+      "returnWeight": 0,
+      "newSincePrior": true,
+      "price": 150.86,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 1.0855,
+      "change1m": 4.9899,
+      "change3m": -11.7055,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/spcx/history/"
+      },
+      "sparkline": [
+        143.69,
+        142.23,
+        140.71,
+        149.74,
+        147.95,
+        153.47,
+        147.55,
+        148.18,
+        151.21,
+        148.15,
+        143.49,
+        150.88,
+        154.81,
+        152.71,
+        151.85,
+        154.72,
+        148.36,
+        148.03,
+        148.68,
+        145.47,
+        149.24,
+        150.86
+      ],
+      "news": [
+        {
+          "date": "2026-09-29",
+          "title": "Starship 引擎故障可能影響月球任務目標",
+          "summary": "Reuters 報導 Starship 引擎問題對 NASA 月球任務的潛在影響。技術進度與時間表仍有不確定性，不能把測試或市場熱度當作保證收入。",
+          "url": "https://www.reuters.com/business/media-telecom/spacexs-starship-engine-failure-could-impact-nasas-moon-mission-objectives-2026-09-29/",
+          "source": "Reuters"
+        }
+      ],
+      "sector": "太空發射／衛星網路",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "low",
+        "thesis": "新加入 PPA 的 SpaceX 增加發射與衛星網路曝險；Starship 引擎問題提醒技術時程仍有風險。 依目前 0.9448% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0945 個百分點；這不是報酬預測。",
+        "upside": "任務可靠度與衛星網路擴張可支援長期業務。",
+        "downside": "工程失敗、龐大資本支出與市場預期落差可能放大股價波動。",
+        "watch": "追蹤測試修正、NASA 任務進度及經營現金流，不採用未證實併購傳聞。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "LDOS",
+      "name": "Leidos Holdings Inc",
+      "weight": 0.942838,
+      "returnWeight": 1.20121,
+      "newSincePrior": false,
+      "price": 121.83,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.0317,
+      "change1m": -13.1089,
+      "change3m": 18.316,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/ldos/history/"
+      },
+      "sparkline": [
+        140.21,
+        139.18,
+        133.78,
+        132.36,
+        133.05,
+        129.24,
+        128.14,
+        129.55,
+        128.86,
+        132.83,
+        129.24,
+        129.35,
+        130.96,
+        127.69,
+        128.23,
+        123.31,
+        124.69,
+        123.35,
+        123.61,
+        122.35,
+        123.1,
+        121.83
+      ],
+      "news": [
+        {
+          "date": "2026-09-22",
+          "title": "ARTEMIS 空中偵察支援任務延長",
+          "summary": "公司宣布延續為美軍提供 ARTEMIS 空中情報、監視與偵察支援，提升任務服務的持續性；實際收入仍依合約執行認列。",
+          "url": "https://www.prnewswire.com/news-releases/leidos-to-support-extended-artemis-airborne-isr-mission-for-us-army-302886464.html",
+          "source": "公司新聞稿／PR Newswire"
+        },
+        {
+          "date": "2026-09-16",
+          "title": "海軍網路合約金額更正為 9.26 億美元",
+          "summary": "9 月 16 日更正版指出第二個選擇權年度價值為 9.26 億美元，原公告的 8.75 億美元有誤。服務涵蓋超過 65 萬名海軍及陸戰隊人員。",
+          "url": "https://www.leidos.com/insights/leidos-keep-650000-navy-and-marine-corps-personnel-securely-connected-worldwide",
+          "source": "Leidos（更正版）"
+        }
+      ],
+      "sector": "國防資訊／任務服務",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "網路選擇權年度與 ISR 延續提供收入基礎，可降低部分短期需求不確定性。 依目前 0.9428% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0943 個百分點；這不是報酬預測。",
+        "upside": "既有任務延續與資安服務需求支持現金流。",
+        "downside": "政府支出延後、人工成本與續約競爭可能壓縮利潤。",
+        "watch": "追蹤 funded backlog、續約及自由現金流；使用更正後合約值。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "CACI",
+      "name": "CACI International Inc",
+      "weight": 0.925998,
+      "returnWeight": 1.193936,
+      "newSincePrior": false,
+      "price": 609.11,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.1595,
+      "change1m": -2.2311,
+      "change3m": 31.4834,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/caci/history/"
+      },
+      "sparkline": [
+        623.01,
+        629.46,
+        614.27,
+        630.0,
+        623.61,
+        625.31,
+        606.85,
+        624.01,
+        621.17,
+        637.16,
+        636.4,
+        631.18,
+        635.0,
+        626.85,
+        632.87,
+        613.22,
+        616.68,
+        616.82,
+        618.32,
+        616.4,
+        608.14,
+        609.11
+      ],
+      "news": [
+        {
+          "date": "2026-09-16",
+          "title": "中央司令部資訊作戰支援合約獲選",
+          "summary": "合約包括一年基本期與四個選擇權期間，支援資訊優勢及非正規作戰。選擇權需獲行使，不能直接當作確定多年收入。",
+          "url": "https://www.prnewswire.com/news-releases/caci-receives-contract-award-to-advance-us-central-command-information-advantage-and-irregular-warfare-operations-302881015.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "資訊作戰／任務科技",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "中央司令部合約支持專業任務需求，但後續選擇權仍有條件。 依目前 0.9260% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0926 個百分點；這不是報酬預測。",
+        "upside": "成功續期與能力擴展可延長收入。",
+        "downside": "選擇權未行使、人力保留及預算調整可能影響成果。",
+        "watch": "觀察基本期執行、選擇權行使及利潤率。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "HII",
+      "name": "Huntington Ingalls Industries Inc",
+      "weight": 0.891937,
+      "returnWeight": 1.021561,
+      "newSincePrior": false,
+      "price": 267.07,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 2.8617,
+      "change1m": -8.2864,
+      "change3m": -4.5804,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/hii/history/"
+      },
+      "sparkline": [
+        291.2,
+        292.42,
+        288.72,
+        290.73,
+        285.93,
+        287.67,
+        280.85,
+        281.67,
+        279.69,
+        280.01,
+        279.46,
+        278.09,
+        277.14,
+        272.86,
+        276.1,
+        270.95,
+        269.8,
+        266.0,
+        264.02,
+        257.05,
+        259.64,
+        267.07
+      ],
+      "news": [
+        {
+          "date": "2026-09-29",
+          "title": "取得 10 艘 ROMULUS 無人水面艇合約",
+          "summary": "美國海軍授予 10 艘無人艇建造合約。訂單支持無人海上系統布局，但交付測試與量產成本仍是關鍵。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/29/3371454/14858/en/hii-wins-u-s-navy-contract-for-10-romulus-usvs-accelerating-deployment-of-proven-autonomous-capability.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        },
+        {
+          "date": "2026-09-29",
+          "title": "Truman 航艦換料大修合約約 51 億美元",
+          "summary": "Newport News Shipbuilding 獲授約 50.9997 億美元航艦核燃料更換與複雜大修合約。大型工程將分期履約，並非單季營收。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/29/3371395/14858/en/hii-is-awarded-contract-to-execute-uss-harry-s-truman-cvn-75-refueling-and-complex-overhaul.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "造艦／無人海上系統",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "航艦大修與無人艇訂單提供不同期限的工作量，對 PPA 海軍支出曝險偏正向。 依目前 0.8919% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0892 個百分點；這不是報酬預測。",
+        "upside": "訂單執行與無人艇後續採購可支援產能利用。",
+        "downside": "大型工程工期、熟練人力與固定價格成本風險可能吃掉利潤。",
+        "watch": "追蹤里程碑交付、造艦利潤率與營運現金流。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "TXT",
+      "name": "Textron Inc",
+      "weight": 0.862637,
+      "returnWeight": 1.139955,
+      "newSincePrior": false,
+      "price": 76.2,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.8421,
+      "change1m": -5.4121,
+      "change3m": -16.9301,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/txt/history/"
+      },
+      "sparkline": [
+        80.56,
+        79.71,
+        79.24,
+        79.37,
+        79.07,
+        79.54,
+        79.89,
+        79.2,
+        81.0,
+        80.58,
+        80.72,
+        80.71,
+        80.91,
+        79.69,
+        79.41,
+        77.88,
+        76.81,
+        76.02,
+        76.59,
+        77.37,
+        77.63,
+        76.2
+      ],
+      "news": [
+        {
+          "date": "2026-09-14",
+          "title": "與 Merlin 推出 SkyCourier UX 概念機",
+          "summary": "構想結合 Cessna SkyCourier 與 Merlin Pilot 自主技術。這是產品概念，尚不等同量產訂單或認證完成。",
+          "url": "https://www.businesswire.com/news/home/20260914611105/en/Textron-Aviation-and-Merlin-Introduce-Cessna-SkyCourier-UX-Concept-Aircraft/",
+          "source": "公司新聞稿／Business Wire"
+        },
+        {
+          "date": "2026-07-28",
+          "title": "第二季每股淨利改善",
+          "summary": "公司公布第二季 GAAP 每股淨利 1.42 美元，上年同期為 1.35 美元。評估時應另觀察業務組合及現金流，而非僅看 EPS。",
+          "url": "https://www.businesswire.com/news/home/20260728485405/en/Textron-Reports-Second-Quarter-2026-Results/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "軍民用航空／專用系統",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "既有獲利改善與自主飛行概念形成雙軌機會；概念機尚不足以推導近期收入增量。 依目前 0.8626% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0863 個百分點；這不是報酬預測。",
+        "upside": "自主技術商業化及航空需求可增加產品市場。",
+        "downside": "研發支出、認證與商用需求循環可能延後回報。",
+        "watch": "看正式訂單、認證節點、分部利潤及自由現金流。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "KEYS",
+      "name": "Keysight Technologies Inc",
+      "weight": 0.748137,
+      "returnWeight": 1.075795,
+      "newSincePrior": false,
+      "price": 364.04,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.94,
+      "change1m": 12.8107,
+      "change3m": 3.9906,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/keys/history/"
+      },
+      "sparkline": [
+        322.7,
+        319.27,
+        321.58,
+        322.62,
+        327.21,
+        333.42,
+        331.01,
+        325.65,
+        338.64,
+        314.96,
+        313.36,
+        322.04,
+        331.44,
+        335.0,
+        342.03,
+        347.32,
+        353.36,
+        357.54,
+        362.15,
+        359.74,
+        360.65,
+        364.04
+      ],
+      "news": [
+        {
+          "date": "2026-08-18",
+          "title": "第三財季營收達 18.5 億美元",
+          "summary": "公司公布營收由上年 13.5 億增至 18.5 億美元，GAAP EPS 2.30 美元；連續第二季訂單超過 20 億美元，並改善全年展望。",
+          "url": "https://investor.keysight.com/investor-news-and-events/financial-press-releases/press-release-details/2026/Keysight-Technologies-Reports-Third-Quarter-2026-Results/default.aspx",
+          "source": "Keysight"
+        }
+      ],
+      "sector": "電子測試／航太通訊",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "強勁訂單與收入增加 PPA 的測試設備成長來源，但與 AI 及通訊投資循環連動。 依目前 0.7481% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0748 個百分點；這不是報酬預測。",
+        "upside": "客戶研發與資料中心投資延續可支持收入。",
+        "downside": "資本支出放緩、訂單取消與產品組合轉弱可能影響利潤。",
+        "watch": "觀察訂單出貨比、持續有機成長與非國防需求。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "MOG/A",
+      "name": "Moog Inc",
+      "weight": 0.745347,
+      "returnWeight": 0.863171,
+      "newSincePrior": false,
+      "price": 381.47,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.579,
+      "change1m": 2.6837,
+      "change3m": -9.9967,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/mog.a/history/"
+      },
+      "sparkline": [
+        371.5,
+        365.03,
+        365.16,
+        370.12,
+        371.68,
+        369.61,
+        367.51,
+        366.72,
+        367.02,
+        362.41,
+        356.7,
+        359.7,
+        355.63,
+        364.64,
+        369.42,
+        367.83,
+        374.98,
+        382.75,
+        387.8,
+        389.96,
+        387.59,
+        381.47
+      ],
+      "news": [
+        {
+          "date": "2026-07-31",
+          "title": "第三財季創紀錄並上調全年指引",
+          "summary": "Moog 公布 2026 財年第三季業績並提高全年展望。此處研究的是 A 類股 MOG/A，股價來源使用 MOG.A 代碼。",
+          "url": "https://www.businesswire.com/news/home/20260731950193/en/Moog-Inc.-Achieves-Record-Third-Quarter-2026-Results-Through-Operational-Excellence-and-Raises-Full-Year-Guidance/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "飛控／精密運動控制",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "業績與展望改善支持營運執行向好，對 PPA 增加飛控與工業技術來源。 依目前 0.7453% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0745 個百分點；這不是報酬預測。",
+        "upside": "產能效率提升與航空需求可支援獲利。",
+        "downside": "客戶生產率、供應鏈瓶頸及研發成本可能限制增長。",
+        "watch": "觀察季度指引兌現、分部利潤及自由現金流。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "VSAT",
+      "name": "Viasat Inc",
+      "weight": 0.732423,
+      "returnWeight": 0.848479,
+      "newSincePrior": false,
+      "price": 70.38,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 1.8671,
+      "change1m": 4.6232,
+      "change3m": -21.6346,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/vsat/history/"
+      },
+      "sparkline": [
+        67.27,
+        66.28,
+        69.92,
+        71.72,
+        75.32,
+        77.75,
+        72.36,
+        74.18,
+        74.31,
+        71.64,
+        70.61,
+        70.95,
+        73.02,
+        76.38,
+        76.38,
+        74.99,
+        73.68,
+        73.72,
+        73.02,
+        71.65,
+        69.09,
+        70.38
+      ],
+      "news": [
+        {
+          "date": "2026-09-23",
+          "title": "海軍陸戰隊多軌道連線合約首筆任務訂單",
+          "summary": "Viasat 宣布取得首筆任務訂單，所屬整體服務合約上限為 3.07 億美元。上限不是該筆訂單或保證收入。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/23/3367410/0/en/viasat-wins-first-task-order-award-as-part-of-307-million-ceiling-u-s-marine-corps-enterprise-services-contract-for-multi-orbit-connectivity.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "衛星通訊",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "多軌道服務首筆訂單支持政府市場，規模仍須依實際任務訂單判斷。 依目前 0.7324% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0732 個百分點；這不是報酬預測。",
+        "upside": "多網路整合及後續政府採購可增加服務收入。",
+        "downside": "競爭、衛星資本支出與合約上限未用滿可能限制回報。",
+        "watch": "追蹤實際訂單金額、服務毛利、資金需求及負債。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "DRS",
+      "name": "Leonardo DRS Inc",
+      "weight": 0.732077,
+      "returnWeight": 0.88129,
+      "newSincePrior": false,
+      "price": 36.63,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.2723,
+      "change1m": -3.6053,
+      "change3m": -14.1551,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/drs/history/"
+      },
+      "sparkline": [
+        38.0,
+        37.7,
+        37.02,
+        37.02,
+        36.6,
+        36.94,
+        36.06,
+        36.31,
+        36.07,
+        35.91,
+        36.88,
+        37.09,
+        37.06,
+        37.19,
+        37.95,
+        37.15,
+        37.41,
+        37.59,
+        37.16,
+        36.67,
+        36.73,
+        36.63
+      ],
+      "news": [
+        {
+          "date": "2026-09-17",
+          "title": "取得韓國新一代驅逐艦電力推進合約",
+          "summary": "Leonardo DRS 與 Doosan Enerbility 簽訂合約，提供韓國海軍 KDDX 計畫的電力推進系統。公告未揭露金額，這裡不推估合約價值。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/17/3364366/0/en/leonardo-drs-to-provide-electric-propulsion-system-for-the-republic-of-korea-navy-next-generation-kddx-destroyer-program.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "國防感測／電力推進",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "KDDX 合約拓展國際海軍電力推進業務，但未揭露金額限制了量化判斷。 依目前 0.7321% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0732 個百分點；這不是報酬預測。",
+        "upside": "新平台採用可能帶來後續維護與擴充需求。",
+        "downside": "艦艇進度、跨國履約與整合測試延後可能影響認列。",
+        "watch": "留意合約金額後續揭露、平台時程與生產交付。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "BWXT",
+      "name": "BWX Technologies Inc",
+      "weight": 0.711452,
+      "returnWeight": 0.846816,
+      "newSincePrior": false,
+      "price": 137.0,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.7318,
+      "change1m": -10.0401,
+      "change3m": -29.6173,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/bwxt/history/"
+      },
+      "sparkline": [
+        152.29,
+        161.54,
+        155.67,
+        160.25,
+        157.59,
+        160.41,
+        156.71,
+        152.49,
+        150.12,
+        148.53,
+        146.7,
+        145.66,
+        146.35,
+        147.52,
+        147.47,
+        144.51,
+        141.81,
+        138.68,
+        138.47,
+        134.35,
+        138.01,
+        137.0
+      ],
+      "news": [
+        {
+          "date": "2026-08-26",
+          "title": "BANR 獲美軍 Janus 計畫選用",
+          "summary": "公司宣布其先進核反應爐技術獲選支援 Janus 計畫。選用之後仍有設計、監管、部署及驗收工作。",
+          "url": "https://www.businesswire.com/news/home/20260826436761/en/U.S.-Army-Chooses-BWXT-Advanced-Nuclear-Reactor-BANR-for-Janus-Program/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "核技術／反應爐",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "low",
+        "thesis": "Janus 選用增加新核能業務的機會，但距離規模收入仍有多個監管及技術階段。 依目前 0.7115% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0711 個百分點；這不是報酬預測。",
+        "upside": "計畫取得持續撥款並成功部署可擴大業務。",
+        "downside": "監管、建造成本與部署時程可能拖長現金回收。",
+        "watch": "關注確定合約、許可、測試與里程碑付款。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "TDY",
+      "name": "Teledyne Technologies Inc",
+      "weight": 0.699356,
+      "returnWeight": 0.857212,
+      "newSincePrior": false,
+      "price": 606.81,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.2015,
+      "change1m": -1.0017,
+      "change3m": -9.0103,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/tdy/history/"
+      },
+      "sparkline": [
+        612.95,
+        610.51,
+        606.36,
+        607.87,
+        610.65,
+        605.08,
+        595.23,
+        596.5,
+        603.79,
+        597.11,
+        598.51,
+        601.1,
+        601.98,
+        603.46,
+        609.08,
+        612.74,
+        621.05,
+        612.02,
+        614.15,
+        610.83,
+        605.59,
+        606.81
+      ],
+      "news": [
+        {
+          "date": "2026-09-24",
+          "title": "獲選與 NASA 合作月球電力技術",
+          "summary": "Teledyne Energy Systems 獲選參與 NASA 月球電力技術合作。研發合作不等同已取得商業量產收入。",
+          "url": "https://www.businesswire.com/news/home/20260924470758/en/Teledyne-Energy-Systems-Selected-by-NASA-for-Collaboration-to-Advance-Lunar-Power-Technology/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "感測／影像／航太科技",
+      "assessment": {
+        "direction": "neutral",
+        "confidence": "low",
+        "thesis": "NASA 合作增加技術機會，但公告沒有足夠金額可判定對近期 EPS 的實質影響。 依目前 0.6994% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0699 個百分點；這不是報酬預測。",
+        "upside": "月球技術若取得後續商業訂單可拓展市場。",
+        "downside": "研發投入與長期開發時程可能使收益延後。",
+        "watch": "追蹤後續有價合約、研發費用及核心感測業務需求。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "CAE",
+      "name": "CAE Inc",
+      "weight": 0.640208,
+      "returnWeight": 0.798924,
+      "newSincePrior": false,
+      "price": 24.01,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.9897,
+      "change1m": -0.6209,
+      "change3m": -4.1899,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/cae/history/"
+      },
+      "sparkline": [
+        24.16,
+        23.56,
+        23.72,
+        24.49,
+        24.41,
+        24.28,
+        24.06,
+        23.68,
+        23.98,
+        24.32,
+        23.71,
+        24.05,
+        24.23,
+        23.57,
+        24.54,
+        24.57,
+        24.41,
+        24.62,
+        24.86,
+        24.28,
+        24.25,
+        24.01
+      ],
+      "news": [
+        {
+          "date": "2026-08-12",
+          "title": "第一財季收入增長，全年展望維持",
+          "summary": "營收 11.734 億加元、年增 6.8%；調整後 EPS 0.26 加元持平，GAAP EPS 0.10 加元低於去年 0.18。財報為加元，持股報價為美國掛牌美元。",
+          "url": "https://www.sec.gov/Archives/edgar/data/1173382/000117338226000040/cae_q1fy27xex1xpressrelease.htm",
+          "source": "CAE／SEC"
+        }
+      ],
+      "sector": "航空訓練／模擬",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "收入增加但調整後 EPS 持平，說明規模成長尚未充分轉為每股獲利。 依目前 0.6402% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0640 個百分點；這不是報酬預測。",
+        "upside": "民航與國防訓練需求有助提高設備利用率。",
+        "downside": "成本、訓練合約定價及加元匯率可能影響美元投資報酬。",
+        "watch": "觀察訓練中心利用率、訂單出貨比及利潤改善。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "KTOS",
+      "name": "Kratos Defense & Security Solutions Inc",
+      "weight": 0.616259,
+      "returnWeight": 0.765015,
+      "newSincePrior": false,
+      "price": 42.69,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.8362,
+      "change1m": -16.2613,
+      "change3m": -14.3803,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/ktos/history/"
+      },
+      "sparkline": [
+        50.98,
+        49.34,
+        47.78,
+        48.1,
+        47.82,
+        48.2,
+        46.74,
+        46.98,
+        46.69,
+        47.58,
+        47.62,
+        47.59,
+        47.66,
+        47.46,
+        48.59,
+        46.97,
+        46.16,
+        47.02,
+        45.62,
+        44.07,
+        43.05,
+        42.69
+      ],
+      "news": [
+        {
+          "date": "2026-09-21",
+          "title": "與 GE 的 GEK800 引擎完成首次點火",
+          "summary": "雙方宣布巡弋飛彈推進系統完成重要工程里程碑。點火成功是測試進展，尚不能視為量產、定型或大額採購承諾。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/21/3365522/224/en/kratos-and-ge-aerospace-achieve-significant-program-milestone-with-successful-ignition-of-gek800-turbofan-cruise-missile-propulsion-system.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "無人系統／推進技術",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "low",
+        "thesis": "GEK800 點火是正向技術進展，對 PPA 的主要意義是未來採用機會，非已確定收入。 依目前 0.6163% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0616 個百分點；這不是報酬預測。",
+        "upside": "測試成功後的定型與量產訂單可擴大市場。",
+        "downside": "工程問題、延後採購與研發現金消耗可能壓抑回報。",
+        "watch": "依序檢查測試、資格認定、正式採購與生產量。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "AVAV",
+      "name": "AeroVironment Inc",
+      "weight": 0.583159,
+      "returnWeight": 0.801975,
+      "newSincePrior": false,
+      "price": 142.22,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.7121,
+      "change1m": -4.1321,
+      "change3m": -13.8426,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/avav/history/"
+      },
+      "sparkline": [
+        148.35,
+        144.17,
+        145.39,
+        147.21,
+        144.65,
+        148.78,
+        140.8,
+        147.07,
+        146.71,
+        153.4,
+        156.99,
+        156.45,
+        163.38,
+        159.95,
+        160.9,
+        156.15,
+        155.94,
+        158.55,
+        152.05,
+        147.23,
+        143.24,
+        142.22
+      ],
+      "news": [
+        {
+          "date": "2026-09-09",
+          "title": "第一財季營收 4.805 億美元、已撥款積壓訂單創高",
+          "summary": "2027 財年第一季營收年增 6%，訂單出貨比 1.4；已撥款積壓訂單達 15 億美元、年增 37%。訂單仍需逐步生產交付。",
+          "url": "https://investor.avinc.com/node/21391",
+          "source": "AeroVironment"
+        }
+      ],
+      "sector": "無人系統／定向能",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "已撥款積壓訂單增長比未定案框架更具支持性，但仍需量產交付兌現。 依目前 0.5832% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0583 個百分點；這不是報酬預測。",
+        "upside": "訂單出貨比高於 1 與無人系統採購可支撐後續收入。",
+        "downside": "供應鏈、任務驗收與擴產成本可能延後利潤。",
+        "watch": "看 funded backlog 轉化、毛利與現金流是否同步改善。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "SARO",
+      "name": "StandardAero Inc",
+      "weight": 0.573328,
+      "returnWeight": 0.717506,
+      "newSincePrior": false,
+      "price": 21.35,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.8391,
+      "change1m": -12.8216,
+      "change3m": -28.6192,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/saro/history/"
+      },
+      "sparkline": [
+        24.49,
+        24.21,
+        24.07,
+        24.64,
+        24.81,
+        24.47,
+        24.22,
+        23.65,
+        24.04,
+        23.6,
+        23.27,
+        23.13,
+        22.54,
+        22.3,
+        22.88,
+        22.78,
+        22.58,
+        22.18,
+        22.74,
+        22.22,
+        21.75,
+        21.35
+      ],
+      "news": [
+        {
+          "date": "2026-09-23",
+          "title": "與 GMR 合作支援印度航空維修市場",
+          "summary": "StandardAero 與 GMR Aero Technic 合作，拓展印度營運商的引擎售後服務。實際增量取決於送修量、人員與產能。",
+          "url": "https://www.businesswire.com/news/home/20260922606105/en/StandardAero-Teams-With-GMR-Aero-Technic-To-Support-Operators-in-India/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "引擎維修",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "印度合作有助擴大售後服務覆蓋，對 PPA 提供航空使用量相關曝險。 依目前 0.5733% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0573 個百分點；這不是報酬預測。",
+        "upside": "送修需求與新客戶取得可提升產能利用。",
+        "downside": "技師短缺、零件等待與周轉時間拉長可能限制收入。",
+        "watch": "觀察送修量、周轉日數與合約利潤。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "BAH",
+      "name": "Booz Allen Hamilton Holding Corp",
+      "weight": 0.549929,
+      "returnWeight": 0.701277,
+      "newSincePrior": false,
+      "price": 69.42,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.416,
+      "change1m": -8.2353,
+      "change3m": 14.4223,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/bah/history/"
+      },
+      "sparkline": [
+        75.65,
+        75.38,
+        73.17,
+        73.88,
+        72.8,
+        72.11,
+        72.2,
+        75.68,
+        75.9,
+        79.11,
+        80.06,
+        78.41,
+        78.89,
+        77.07,
+        77.38,
+        76.28,
+        75.65,
+        73.82,
+        72.95,
+        70.25,
+        69.71,
+        69.42
+      ],
+      "news": [
+        {
+          "date": "2026-08-24",
+          "title": "完成 Ultra I&C Mission Solutions 收購",
+          "summary": "Booz Allen 完成先前宣布的業務收購，增加任務科技能力。後續重點是整合效率、人才保留與合約協同效益。",
+          "url": "https://www.businesswire.com/news/home/20260824737561/en/Booz-Allen-Completes-Acquisition-of-Ultra-IC-Mission-Solutions-Business/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "政府顧問／任務科技",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "收購增加任務科技能力，價值仍取決於整合及政府客戶需求。 依目前 0.5499% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0550 個百分點；這不是報酬預測。",
+        "upside": "技術組合擴展與交叉銷售可改善競爭力。",
+        "downside": "人員流失、整合費用及預算不確定性可能抵銷協同。",
+        "watch": "追蹤新合約、員工留任、現金轉換與併購整合費用。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "HXL",
+      "name": "Hexcel Corp",
+      "weight": 0.534479,
+      "returnWeight": 0.649387,
+      "newSincePrior": false,
+      "price": 83.92,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.5098,
+      "change1m": -9.4421,
+      "change3m": -16.1303,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/hxl/history/"
+      },
+      "sparkline": [
+        92.67,
+        92.08,
+        91.75,
+        92.43,
+        91.98,
+        91.28,
+        90.42,
+        89.82,
+        92.74,
+        91.02,
+        91.36,
+        91.08,
+        88.04,
+        88.15,
+        86.94,
+        85.98,
+        86.12,
+        85.45,
+        85.8,
+        84.14,
+        84.35,
+        83.92
+      ],
+      "news": [
+        {
+          "date": "2026-07-29",
+          "title": "第二季 EPS 較去年改善",
+          "summary": "Hexcel 公布 GAAP EPS 0.64 美元，相較去年 0.17 美元；調整後 EPS 為 0.66 美元。複合材料需求仍受飛機實際生產率影響。",
+          "url": "https://www.businesswire.com/news/home/20260729594034/en/Hexcel-Reports-2026-Second-Quarter-Results/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "航空複合材料",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "EPS 改善支持供應鏈復甦，但仍高度依賴客戶實際飛機產量。 依目前 0.5345% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0534 個百分點；這不是報酬預測。",
+        "upside": "飛機增產及複材滲透可提高產線利用率。",
+        "downside": "主機廠延遲、材料成本及生產良率可能削弱利潤。",
+        "watch": "比較客戶產量、銷售量、調整後與 GAAP 利潤差異。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "MRCY",
+      "name": "Mercury Systems Inc",
+      "weight": 0.429698,
+      "returnWeight": 0.512269,
+      "newSincePrior": false,
+      "price": 83.0,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.4356,
+      "change1m": -4.9582,
+      "change3m": -32.1507,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/mrcy/history/"
+      },
+      "sparkline": [
+        87.33,
+        82.8,
+        82.57,
+        84.71,
+        82.42,
+        83.46,
+        80.76,
+        80.43,
+        80.61,
+        81.03,
+        87.01,
+        87.25,
+        86.18,
+        85.28,
+        85.65,
+        83.88,
+        82.72,
+        83.18,
+        82.18,
+        80.12,
+        82.64,
+        83.0
+      ],
+      "news": [
+        {
+          "date": "2026-09-16",
+          "title": "延長執行長合約並重申既有展望",
+          "summary": "公司延長 Bill Ballhaus 聘任安排，同時重申既有業績指引。重申代表維持預期，並非調升展望。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/16/3363121/18849/en/mercury-systems-announces-extension-of-employment-contract-with-chairman-and-ceo-bill-ballhaus-and-reaffirms-prior-guidance.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "國防任務電子",
+      "assessment": {
+        "direction": "neutral",
+        "confidence": "medium",
+        "thesis": "指引重申與管理延續減少部分不確定性，尚未提供新的成長上修證據。 依目前 0.4297% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0430 個百分點；這不是報酬預測。",
+        "upside": "既有改善計畫與任務電子交付可提升獲利。",
+        "downside": "開發專案損失、成本或交付延遲可能使指引落空。",
+        "watch": "追蹤原指引兌現、積壓訂單品質與營運資金。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "MDA",
+      "name": "MDA Space Ltd",
+      "weight": 0.405823,
+      "returnWeight": 0,
+      "newSincePrior": true,
+      "price": 29.63,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.0337,
+      "change1m": 2.5614,
+      "change3m": -28.2219,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/mda/history/"
+      },
+      "sparkline": [
+        28.89,
+        28.37,
+        28.02,
+        29.06,
+        29.52,
+        30.14,
+        28.81,
+        28.88,
+        28.97,
+        28.85,
+        28.95,
+        29.09,
+        30.41,
+        30.07,
+        31.79,
+        31.33,
+        31.59,
+        31.48,
+        31.49,
+        31.05,
+        29.64,
+        29.63
+      ],
+      "news": [
+        {
+          "date": "2026-08-07",
+          "title": "第二季營收增長 34%，自由現金流仍為負",
+          "summary": "營收 4.99 億加元、調整後 EBITDA 9,600 萬加元，積壓訂單約 40 億加元；自由現金流為負 1.50 億加元。財報數字為加元，股價採 NYSE 美元掛牌。",
+          "url": "https://mda-en.investorroom.com/2026-08-07-MDA-SPACE-REPORTS-SECOND-QUARTER-2026-RESULTS",
+          "source": "MDA Space"
+        }
+      ],
+      "sector": "衛星系統／太空機器人",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "強勁收入與積壓訂單支援成長，但負自由現金流顯示生產擴張仍需資金。 依目前 0.4058% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0406 個百分點；這不是報酬預測。",
+        "upside": "衛星交付與國防太空需求可加快訂單轉化。",
+        "downside": "營運資金、資本支出、發射時程與加元匯率會影響回報。",
+        "watch": "追蹤 backlog 轉收入、現金回收與衛星驗收；區分加元財報和美元報價。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "TTMI",
+      "name": "TTM Technologies Inc",
+      "weight": 0.400107,
+      "returnWeight": 0.57449,
+      "newSincePrior": false,
+      "price": 122.84,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.0326,
+      "change1m": 3.2963,
+      "change3m": -34.3172,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/ttmi/history/"
+      },
+      "sparkline": [
+        118.92,
+        115.33,
+        115.6,
+        115.39,
+        125.6,
+        129.35,
+        124.25,
+        122.34,
+        126.44,
+        113.22,
+        112.46,
+        114.0,
+        114.77,
+        117.97,
+        124.02,
+        127.47,
+        125.82,
+        126.98,
+        129.17,
+        124.19,
+        122.8,
+        122.84
+      ],
+      "news": [
+        {
+          "date": "2026-09-30",
+          "title": "完成 Epiq Solutions 收購",
+          "summary": "TTM 宣布完成射頻及任務系統業務收購，增強航太國防產品組合。整合成效將影響收購後的獲利品質。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/30/3372371/0/en/ttm-technologies-inc-completes-acquisition-of-epiq-solutions-enhancing-ttm-s-strategic-a-d-portfolio.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        },
+        {
+          "date": "2026-09-10",
+          "title": "5 億美元、6.75% 債券完成定價",
+          "summary": "公司宣布 2034 年到期優先債券定價。新資金提供投資彈性，固定利息支出也提高持續現金流要求。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/10/3360017/0/en/ttm-announces-pricing-of-500-million-of-its-senior-notes-due-2034.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "電路板／射頻系統",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "收購增強國防電子能力，同時新增債券利息負擔，回報需看現金流而非僅收入規模。 依目前 0.4001% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0400 個百分點；這不是報酬預測。",
+        "upside": "Epiq 協同與高階射頻需求可提升產品組合。",
+        "downside": "整合、利息支出與電子設備景氣循環是下行因素。",
+        "watch": "追蹤收購業績、自由現金流及淨負債。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "KRMN",
+      "name": "Karman Holdings Inc",
+      "weight": 0.376148,
+      "returnWeight": 0.297079,
+      "newSincePrior": false,
+      "price": 32.42,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.339,
+      "change1m": -21.7853,
+      "change3m": -35.0561,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/krmn/history/"
+      },
+      "sparkline": [
+        41.45,
+        41.09,
+        40.42,
+        40.52,
+        39.98,
+        39.69,
+        35.22,
+        34.39,
+        35.28,
+        34.74,
+        37.47,
+        36.94,
+        35.25,
+        35.75,
+        35.21,
+        33.5,
+        33.05,
+        34.92,
+        35.69,
+        33.68,
+        32.86,
+        32.42
+      ],
+      "news": [
+        {
+          "date": "2026-09-01",
+          "title": "完成 Walker 收購，擴展歐洲市場",
+          "summary": "Karman 宣布完成收購以建立歐洲國防成長平台。取得市場入口後，訂單轉化與整合成本仍決定回報。",
+          "url": "https://www.businesswire.com/news/home/20260901082298/en/Karman-Space-Defense-Completes-Walker-Acquisition-Establishing-a-Platform-for-Growth-in-European-Defense-Market%C2%A0/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "太空／國防零組件",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "low",
+        "thesis": "歐洲平台拓展增加可接觸市場，但尚需把整合優勢轉為可持續獲利。 依目前 0.3761% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0376 個百分點；這不是報酬預測。",
+        "upside": "區域國防需求與跨平台銷售可能支持訂單。",
+        "downside": "跨國整合、資金成本及產線擴張可能拖累現金。",
+        "watch": "觀察 Walker 整合、訂單、有機成長及負債。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "SAIC",
+      "name": "Science Applications International Corp",
+      "weight": 0.353542,
+      "returnWeight": 0.430504,
+      "newSincePrior": false,
+      "price": 127.56,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.507,
+      "change1m": -0.5147,
+      "change3m": 15.533,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/saic/history/"
+      },
+      "sparkline": [
+        128.22,
+        126.78,
+        127.18,
+        126.5,
+        126.75,
+        127.55,
+        126.2,
+        128.76,
+        129.9,
+        132.01,
+        133.74,
+        132.62,
+        133.65,
+        133.19,
+        133.35,
+        129.69,
+        132.96,
+        132.43,
+        132.61,
+        130.93,
+        128.21,
+        127.56
+      ],
+      "news": [
+        {
+          "date": "2026-09-29",
+          "title": "贏得海關與邊境保護局 7.42 億美元續標",
+          "summary": "公司獲得旅客及貨運安全系統支援任務訂單。續標有助維持收入基礎，不應全數視為相較既有業務的新增收入。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/29/3370843/0/en/saic-wins-u-s-customs-and-border-protection-s-742-million-recompete-contract-for-traveler-and-cargo-security-systems.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        },
+        {
+          "date": "2026-08-31",
+          "title": "第二財季營收與有機增長改善",
+          "summary": "營收 18.8 億美元、年增約 6.3%，有機增長 5.3%；調整後 EBITDA 1.93 億美元、利潤率 10.3%。",
+          "url": "https://www.globenewswire.com/news-release/2026/08/31/3353185/0/en/saic-announces-second-quarter-of-fiscal-year-2027-results.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "政府 IT／系統整合",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "續標維持核心收入，有機成長與利潤提供更直接的營運改善證據。 依目前 0.3535% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0354 個百分點；這不是報酬預測。",
+        "upside": "續約、任務支援需求與效率提升可穩定現金流。",
+        "downside": "續標價格壓力、預算中斷及人力成本可能影響利潤。",
+        "watch": "區分續約與真正新業務，追蹤有機增長、EBITDA 及自由現金流。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "LOAR",
+      "name": "Loar Holdings Inc",
+      "weight": 0.345512,
+      "returnWeight": 0.369211,
+      "newSincePrior": false,
+      "price": 61.52,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -3.1943,
+      "change1m": -12.3522,
+      "change3m": -23.6819,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/loar/history/"
+      },
+      "sparkline": [
+        70.19,
+        68.91,
+        67.74,
+        69.74,
+        67.85,
+        67.7,
+        66.05,
+        64.76,
+        66.51,
+        64.54,
+        63.51,
+        64.67,
+        64.28,
+        64.43,
+        64.73,
+        64.17,
+        63.65,
+        65.43,
+        65.04,
+        63.57,
+        63.55,
+        61.52
+      ],
+      "news": [
+        {
+          "date": "2026-08-06",
+          "title": "第二季創紀錄並上調全年展望",
+          "summary": "Loar 公布第二季紀錄業績並提高 2026 年預期。後續需追蹤航太零件成長能否轉為現金流，而非僅擴大規模。",
+          "url": "https://www.accessnewswire.com/newsroom/en/aerospace-and-defense/loar-holdings-inc.-reports-q2-2026-record-results-and-upward-revision-to-2026-1203143",
+          "source": "公司新聞稿／ACCESS Newswire"
+        }
+      ],
+      "sector": "專用航太零件",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "上調展望支持零組件平台成長，但小型供應商仍需證明增長的現金品質。 依目前 0.3455% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0346 個百分點；這不是報酬預測。",
+        "upside": "專用產品需求與售後市場可提高毛利。",
+        "downside": "併購整合、客戶集中及估值預期過高可能放大波動。",
+        "watch": "看有機成長、槓桿、現金轉換與交付品質。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "AIR",
+      "name": "AAR Corp",
+      "weight": 0.336398,
+      "returnWeight": 0.431218,
+      "newSincePrior": false,
+      "price": 101.47,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -4.9461,
+      "change1m": -21.5175,
+      "change3m": -29.0072,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/air/history/"
+      },
+      "sparkline": [
+        129.29,
+        124.48,
+        123.87,
+        125.66,
+        126.54,
+        130.73,
+        124.6,
+        124.47,
+        125.48,
+        120.08,
+        115.92,
+        117.23,
+        112.12,
+        112.77,
+        116.26,
+        117.75,
+        119.46,
+        120.56,
+        116.11,
+        115.09,
+        106.75,
+        101.47
+      ],
+      "news": [
+        {
+          "date": "2026-09-28",
+          "title": "公布 2027 財年第一季結果",
+          "summary": "AAR 公布第一財季業績，提供航空售後平台經營近況。財季與曆季不同，須配合官方報表期間閱讀。",
+          "url": "https://www.prnewswire.com/news-releases/aar-reports-first-quarter-fiscal-year-2027-results-302891946.html",
+          "source": "公司新聞稿／PR Newswire"
+        },
+        {
+          "date": "2026-09-28",
+          "title": "同意取得 MRO Holdings 控制權",
+          "summary": "公司預期交易可增加超過 10 億美元年營收規模，但這是併購假設而非已認列收入。協議宣布時仍需完成交割。",
+          "url": "https://www.prnewswire.com/news-releases/aar-accelerates-its-aftermarket-platform-strategy-by-agreeing-to-acquire-a-controlling-interest-in-mro-holdings-302891941.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "航空維修／零件服務",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "控制權收購若完成可大幅擴大平台，但規模躍升也提高整合與融資要求。 依目前 0.3364% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0336 個百分點；這不是報酬預測。",
+        "upside": "售後市場需求與擴大客戶覆蓋可改善現金流。",
+        "downside": "交割條件、資金成本及整合不順可能稀釋回報。",
+        "watch": "先確認交易完成與資本結構，再比較有機收入、利潤與負債。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "PL",
+      "name": "Planet Labs PBC",
+      "weight": 0.302417,
+      "returnWeight": 0.520461,
+      "newSincePrior": false,
+      "price": 16.39,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.0611,
+      "change1m": -17.4307,
+      "change3m": -50.5282,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/pl/history/"
+      },
+      "sparkline": [
+        19.85,
+        19.26,
+        19.99,
+        18.35,
+        18.12,
+        17.81,
+        17.22,
+        16.69,
+        16.45,
+        16.2,
+        16.02,
+        16.02,
+        16.99,
+        16.42,
+        17.07,
+        16.91,
+        16.38,
+        17.62,
+        17.43,
+        16.77,
+        16.38,
+        16.39
+      ],
+      "news": [
+        {
+          "date": "2026-09-25",
+          "title": "Pelican-12 運抵發射場",
+          "summary": "公告及更正照片確認衛星已抵發射場。運抵、發射、在軌驗收與商業服務是不同里程碑。",
+          "url": "https://www.businesswire.com/news/home/20260925502401/en/CORRECTING-and-REPLACING-PHOTO-Planet%E2%80%99s-Pelican-12-Satellite-Arrives-at-Launch-Site/",
+          "source": "公司新聞稿／Business Wire"
+        },
+        {
+          "date": "2026-09-03",
+          "title": "第二財季營收增長 58%，仍有 GAAP 虧損",
+          "summary": "營收 1.161 億美元、調整後 EBITDA 1,390 萬美元，GAAP 淨損 940 萬美元。公司預期下一季調整後 EBITDA 仍可能虧損；季度獲利不能線性外推。",
+          "url": "https://investors.planet.com/news/news-details/2026/Planet-Reports-Financial-Results-for-Second-Quarter-of-Fiscal-Year-2027/default.aspx",
+          "source": "Planet Labs"
+        }
+      ],
+      "sector": "地球觀測／衛星資料",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "高營收增長與經常性合約是優勢，但下一季獲利指引與資本支出顯示成長不會直線前進。 依目前 0.3024% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0302 個百分點；這不是報酬預測。",
+        "upside": "新星座與主權客戶合約可增加資料收入。",
+        "downside": "發射延後、利用率不足、股權融資及季度收入波動可能壓抑股價。",
+        "watch": "看衛星驗收、RPO 轉化、GAAP 損益及自由現金流。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "KBR",
+      "name": "KBR Inc",
+      "weight": 0.249958,
+      "returnWeight": 0.314746,
+      "newSincePrior": false,
+      "price": 35.16,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.0854,
+      "change1m": -6.24,
+      "change3m": 1.8245,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/kbr/history/"
+      },
+      "sparkline": [
+        37.5,
+        36.96,
+        36.93,
+        37.29,
+        36.82,
+        37.04,
+        36.14,
+        36.45,
+        36.59,
+        36.8,
+        37.32,
+        36.6,
+        36.7,
+        35.54,
+        35.74,
+        35.01,
+        35.34,
+        34.81,
+        34.54,
+        34.84,
+        35.13,
+        35.16
+      ],
+      "news": [
+        {
+          "date": "2026-09-30",
+          "title": "為 Trinzic 分拆提交 Form 10",
+          "summary": "KBR 為預定分拆的 MTS 業務公開提交註冊文件。這是程序進展，分拆尚未因此自動完成，資本結構仍需追蹤。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/30/3372459/0/en/kbr-publicly-files-form-10-registration-statement-for-planned-spin-off-company-trinzic.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "工程／政府服務",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "分拆可能釐清業務價值，也可能改變 PPA 未來的產業曝險與持股安排。 依目前 0.2500% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0250 個百分點；這不是報酬預測。",
+        "upside": "獨立資本配置與業務聚焦可能提高效率。",
+        "downside": "分拆成本、負債分配與指數資格變動仍待確認。",
+        "watch": "追蹤 Form 10 更新、分拆時程、債務分配與基金持股調整。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "FLY",
+      "name": "Firefly Aerospace Inc",
+      "weight": 0.220914,
+      "returnWeight": 0.212494,
+      "newSincePrior": false,
+      "price": 23.15,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 1.2686,
+      "change1m": 9.6117,
+      "change3m": -21.2585,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/fly/history/"
+      },
+      "sparkline": [
+        21.12,
+        20.67,
+        21.07,
+        21.06,
+        21.67,
+        22.9,
+        21.81,
+        20.9,
+        21.13,
+        21.36,
+        20.49,
+        20.28,
+        21.72,
+        20.97,
+        22.83,
+        23.35,
+        21.9,
+        23.09,
+        24.36,
+        24.11,
+        22.86,
+        23.15
+      ],
+      "news": [
+        {
+          "date": "2026-09-30",
+          "title": "Starcloud 成為月球資料中心展示客戶",
+          "summary": "Firefly 宣布商業合作，將展示月球周邊資料中心能力。任務交付與技術驗證尚待後續進展。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/30/3371832/0/en/firefly-aerospace-signs-starcloud-as-commercial-customer-demonstrating-data-center-capabilities-around-the-moon.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        },
+        {
+          "date": "2026-09-22",
+          "title": "完成新無塵室，增加航天器製造能力",
+          "summary": "新設施可支援 Blue Ghost 登月器與 Elytra 軌道載具生產。產能增加需與訂單、資金與成功任務配合。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/22/3366760/0/en/firefly-aerospace-completes-new-cleanroom-to-accelerate-spacecraft-production.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "登月／太空運輸",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "low",
+        "thesis": "新商業客戶與設施為任務擴張鋪路，但成本投入先於可靠的經常性收入。 依目前 0.2209% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0221 個百分點；這不是報酬預測。",
+        "upside": "成功任務及設施利用率提升可建立商業信用。",
+        "downside": "任務失敗、排程延後與融資稀釋可能造成較大波動。",
+        "watch": "看已確定任務收入、現金消耗、發射與驗收節點。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "RDW",
+      "name": "Redwire Corp",
+      "weight": 0.21448,
+      "returnWeight": 0.274917,
+      "newSincePrior": false,
+      "price": 10.44,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -2.7027,
+      "change1m": -2.4299,
+      "change3m": -14.6361,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/rdw/history/"
+      },
+      "sparkline": [
+        10.7,
+        10.26,
+        10.33,
+        10.37,
+        10.53,
+        11.23,
+        10.7,
+        10.87,
+        10.62,
+        10.49,
+        10.75,
+        10.79,
+        11.55,
+        10.74,
+        11.6,
+        11.76,
+        11.27,
+        11.6,
+        11.62,
+        11.2,
+        10.73,
+        10.44
+      ],
+      "news": [
+        {
+          "date": "2026-09-30",
+          "title": "與 Sophia Space 簽署軌道資料中心 MOU",
+          "summary": "雙方探索太空部署結構、航天器整合及在軌 AI 運算合作。合作備忘錄不是具保證金額的確定訂單。",
+          "url": "https://www.prnewswire.com/news-releases/sophia-space-and-redwire-team-up-to-advance-orbital-data-center-infrastructure-302893808.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "太空基礎設施",
+      "assessment": {
+        "direction": "neutral",
+        "confidence": "low",
+        "thesis": "在軌 AI MOU 帶來選擇性機會，現階段仍偏探索性，難以量化為未來 ETF 報酬。 依目前 0.2145% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0214 個百分點；這不是報酬預測。",
+        "upside": "若取得資金和確定任務，可增加航天器整合需求。",
+        "downside": "商業模式、研發支出及資金不足可能延後回收。",
+        "watch": "只在正式合約、任務資金及交付時程明確後提高判斷信心。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "DCO",
+      "name": "Ducommun Inc",
+      "weight": 0.207226,
+      "returnWeight": 0.249029,
+      "newSincePrior": false,
+      "price": 171.54,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.2162,
+      "change1m": 0.07,
+      "change3m": -7.3808,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/dco/history/"
+      },
+      "sparkline": [
+        171.42,
+        168.75,
+        165.6,
+        166.52,
+        168.32,
+        168.33,
+        166.38,
+        167.14,
+        172.73,
+        164.5,
+        166.32,
+        171.52,
+        166.56,
+        166.25,
+        168.09,
+        166.45,
+        172.51,
+        174.57,
+        172.15,
+        169.04,
+        171.17,
+        171.54
+      ],
+      "news": [
+        {
+          "date": "2026-09-24",
+          "title": "投資人日提出 VISION 2032",
+          "summary": "Ducommun 發表長期策略。管理層目標屬前瞻規劃，必須靠訂單、營收與利潤率實際進度驗證。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/24/3368156/0/en/ducommun-s-ceo-sets-the-stage-for-continued-success-unveiling-the-vision-2032-game-plan-at-investor-day.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "航太結構／電子",
+      "assessment": {
+        "direction": "neutral",
+        "confidence": "low",
+        "thesis": "長期策略有助理解方向，但目標不等同已實現業績，需要實際交付支持。 依目前 0.2072% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0207 個百分點；這不是報酬預測。",
+        "upside": "產品升級、製程效率及客戶需求可提升利潤。",
+        "downside": "資本投資超支或成長低於目標可能壓縮回報。",
+        "watch": "逐季比較營收、利潤率、現金流與管理層里程碑。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "OSK",
+      "name": "Oshkosh Corp",
+      "weight": 0.207027,
+      "returnWeight": 0.286683,
+      "newSincePrior": false,
+      "price": 128.82,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -2.1719,
+      "change1m": -16.4104,
+      "change3m": -16.0672,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/osk/history/"
+      },
+      "sparkline": [
+        154.11,
+        147.68,
+        152.89,
+        156.36,
+        157.08,
+        153.78,
+        152.04,
+        147.77,
+        145.85,
+        143.4,
+        143.17,
+        145.04,
+        144.89,
+        146.61,
+        143.38,
+        138.04,
+        135.49,
+        130.17,
+        132.75,
+        132.79,
+        131.68,
+        128.82
+      ],
+      "news": [
+        {
+          "date": "2026-08-12",
+          "title": "示範前線需求端製造能力",
+          "summary": "Oshkosh Defense 與海軍陸戰隊維修單位完成製造示範。此公告屬技術能力驗證，未據此推定新採購金額。",
+          "url": "https://www.businesswire.com/news/home/20260812421191/en/Oshkosh-Defense-and-Marine-Depot-Maintenance-Command-Demonstrate-Point-of-Need-Manufacturing-to-Accelerate-Readiness/",
+          "source": "公司新聞稿／Business Wire"
+        },
+        {
+          "date": "2026-07-28",
+          "title": "公布第二季業績",
+          "summary": "公司公布 2026 年第二季結果。Oshkosh 包含多種專用車輛及設備業務，不能只用國防採購概括整家公司。",
+          "url": "https://www.businesswire.com/news/home/20260727493571/en/Oshkosh-Corporation-Reports-2026-Second-Quarter-Results/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "專用車輛／國防支援",
+      "assessment": {
+        "direction": "neutral",
+        "confidence": "low",
+        "thesis": "製造示範提升服務能力，但沒有足夠新增訂單證據可據此上修整體獲利。 依目前 0.2070% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0207 個百分點；這不是報酬預測。",
+        "upside": "維修效率與後續採購有機會擴大支援收入。",
+        "downside": "非國防設備需求放緩、材料與勞工成本可能更影響整體獲利。",
+        "watch": "區分國防與其他部門訂單，觀察示範是否取得正式合約。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "AMTM",
+      "name": "Amentum Holdings Inc",
+      "weight": 0.200333,
+      "returnWeight": 0.256135,
+      "newSincePrior": false,
+      "price": 18.12,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.1653,
+      "change1m": -9.3547,
+      "change3m": -12.3367,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/amtm/history/"
+      },
+      "sparkline": [
+        19.99,
+        19.99,
+        19.9,
+        20.11,
+        20.06,
+        20.14,
+        19.31,
+        19.56,
+        19.46,
+        19.74,
+        20.14,
+        19.88,
+        20.19,
+        19.6,
+        19.9,
+        19.7,
+        19.71,
+        19.4,
+        19.19,
+        18.49,
+        18.15,
+        18.12
+      ],
+      "news": [
+        {
+          "date": "2026-09-30",
+          "title": "合資企業成為 Sellafield 優先供應商",
+          "summary": "Amentum 的合資企業獲選為英國核場址資產維護與建設計畫的優先供應商。優先資格、最終合約及合資分攤收入需分開判讀。",
+          "url": "https://www.businesswire.com/news/home/20260930996796/en/Amentum-Joint-Venture-Secures-Preferred-Position-for-Major-UK-Nuclear-Contract/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "工程／核設施服務",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "low",
+        "thesis": "優先供應商地位提高獲標可能，但合資分攤與最終條款限制近期量化。 依目前 0.2003% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0200 個百分點；這不是報酬預測。",
+        "upside": "正式合約落實後可增加長期核設施服務收入。",
+        "downside": "合約未完成、成本變動與合資歸屬差異可能縮小效益。",
+        "watch": "確認最終合約、公司經濟權益及現金流認列。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "ONDS",
+      "name": "Ondas Inc",
+      "weight": 0.196262,
+      "returnWeight": 0.184545,
+      "newSincePrior": false,
+      "price": 7.33,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -2.0053,
+      "change1m": -4.3081,
+      "change3m": -11.0437,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/onds/history/"
+      },
+      "sparkline": [
+        7.66,
+        7.04,
+        7.61,
+        7.63,
+        7.62,
+        7.62,
+        7.29,
+        7.25,
+        7.23,
+        7.23,
+        7.24,
+        7.2,
+        7.39,
+        7.39,
+        7.38,
+        7.72,
+        7.4,
+        7.6,
+        7.64,
+        7.68,
+        7.48,
+        7.33
+      ],
+      "news": [
+        {
+          "date": "2026-09-30",
+          "title": "推出長程 Dronebuster REACH",
+          "summary": "首套系統已簽約，預定完成驗收測試後交付海軍研究辦公室。產品推出、驗收及後續量產採購仍是不同階段。",
+          "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/ondas-launches-dronebuster-reach-extending-non-kinetic-counter-ua-1228680",
+          "source": "公司新聞稿／ACCESS Newswire"
+        }
+      ],
+      "sector": "反無人機／自主系統",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "low",
+        "thesis": "新品首筆合約支持需求驗證，但量產規模與可重複銷售尚需證實。 依目前 0.1963% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0196 個百分點；這不是報酬預測。",
+        "upside": "驗收通過與後續擴大採購可加速收入。",
+        "downside": "技術測試、競爭、擴產與資金消耗可能提高風險。",
+        "watch": "確認海軍研究辦公室驗收、後續訂單及現金存量。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "OSIS",
+      "name": "OSI Systems Inc",
+      "weight": 0.191805,
+      "returnWeight": 0.240797,
+      "newSincePrior": false,
+      "price": 194.37,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 1.0764,
+      "change1m": -6.5124,
+      "change3m": -11.1248,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/osis/history/"
+      },
+      "sparkline": [
+        207.91,
+        208.52,
+        206.75,
+        206.62,
+        204.15,
+        204.25,
+        197.49,
+        201.25,
+        204.29,
+        199.95,
+        202.59,
+        201.75,
+        200.35,
+        197.71,
+        200.4,
+        200.84,
+        203.0,
+        201.3,
+        197.24,
+        193.04,
+        192.3,
+        194.37
+      ],
+      "news": [
+        {
+          "date": "2026-09-30",
+          "title": "取得北美貨運檢查相關 2,300 萬美元訂單",
+          "summary": "OSI Systems 安全部門宣布取得相關訂單。交付、安裝及後續支援的時點決定收入認列。",
+          "url": "https://www.businesswire.com/news/home/20260930371808/en/OSI-Systems-Receives-23-Million-in-Orders-from-North-America-Customer-for-Cargo-Inspection-Programs/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "安全檢查／電子系統",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "新增貨運檢查訂單支援安全設備需求，對 PPA 提供邊境與物流安全曝險。 依目前 0.1918% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0192 個百分點；這不是報酬預測。",
+        "upside": "安裝後服務及後續訂單可提高收入持續性。",
+        "downside": "客戶驗收、安裝延遲及地域集中可能影響收款。",
+        "watch": "追蹤交付、服務比重、應收帳款與利潤率。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "VVX",
+      "name": "V2X Inc",
+      "weight": 0.178105,
+      "returnWeight": 0.219597,
+      "newSincePrior": false,
+      "price": 70.77,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -2.7885,
+      "change1m": -8.2815,
+      "change3m": -5.0832,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/vvx/history/"
+      },
+      "sparkline": [
+        77.16,
+        77.45,
+        74.99,
+        76.08,
+        74.18,
+        74.5,
+        71.91,
+        72.56,
+        72.22,
+        72.96,
+        75.17,
+        75.31,
+        76.43,
+        76.84,
+        77.27,
+        72.95,
+        74.94,
+        76.19,
+        75.65,
+        73.71,
+        72.8,
+        70.77
+      ],
+      "news": [
+        {
+          "date": "2026-09-15",
+          "title": "獲 B-52 長程防區外飛彈支援任務席位",
+          "summary": "V2X 取得一項總值 4,600 萬美元交付訂單中的席位。公告的整體金額不可直接當作 V2X 當期全部收入。",
+          "url": "https://www.prnewswire.com/news-releases/v2x-awarded-position-on-46-million-us-air-force-contract-supporting-b-52-long-range-standoff-cruise-missile-program-302878543.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "軍事任務維運",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "low",
+        "thesis": "B-52 任務席位增加支援機會，但公司實際可歸屬價值仍需後續揭露。 依目前 0.1781% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0178 個百分點；這不是報酬預測。",
+        "upside": "既有平台維運需求可支撐長期服務。",
+        "downside": "席位不代表全部合約值、人力成本與預算延遲可能影響收益。",
+        "watch": "核對實際分配金額、履約時程與合約利潤。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "AADX",
+      "name": "Applied Aerospace & Defense Inc",
+      "weight": 0.17588,
+      "returnWeight": 0,
+      "newSincePrior": true,
+      "price": 12.03,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": 0.25,
+      "change1m": -8.8636,
+      "change3m": -47.1905,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/aadx/history/"
+      },
+      "sparkline": [
+        13.2,
+        12.55,
+        12.2,
+        12.53,
+        12.93,
+        12.39,
+        11.94,
+        11.54,
+        12.2,
+        11.65,
+        12.22,
+        12.69,
+        12.7,
+        12.76,
+        12.89,
+        12.66,
+        12.69,
+        12.74,
+        12.64,
+        12.05,
+        12.0,
+        12.03
+      ],
+      "news": [
+        {
+          "date": "2026-08-12",
+          "title": "第二季營收增長，但 IPO 相關費用造成虧損",
+          "summary": "營收 1.673 億美元、年增 47.4%；調整後 EBITDA 3,640 萬美元，GAAP 淨損 1.54 億美元，主要受上市相關股酬及交易費用影響。積壓訂單約 11.3 億美元。",
+          "url": "https://www.businesswire.com/news/home/20260811723545/en/Applied-Aerospace-Defense-Reports-Second-Quarter-2026-Financial-Results/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "航太製造／防禦系統",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "有機與收購成長帶來需求機會，但調整後獲利與 GAAP 大額虧損差距需仔細理解。 依目前 0.1759% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0176 個百分點；這不是報酬預測。",
+        "upside": "超過 11 億美元積壓訂單有助未來產線利用。",
+        "downside": "股酬、交易費用、債務與整合成本可能影響每股價值。",
+        "watch": "追蹤 GAAP 與調整後差異、股數、現金流及有機增長。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "IRDM",
+      "name": "Iridium Communications Inc",
+      "weight": 0.167145,
+      "returnWeight": 0.18715,
+      "newSincePrior": false,
+      "price": 47.9,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.0834,
+      "change1m": 1.9583,
+      "change3m": -12.6709,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/irdm/history/"
+      },
+      "sparkline": [
+        46.98,
+        46.72,
+        46.97,
+        46.95,
+        47.21,
+        47.8,
+        47.06,
+        47.03,
+        47.3,
+        46.18,
+        47.09,
+        47.28,
+        47.48,
+        46.77,
+        48.21,
+        48.65,
+        48.3,
+        48.89,
+        48.75,
+        48.33,
+        47.94,
+        47.9
+      ],
+      "news": [
+        {
+          "date": "2026-09-10",
+          "title": "完成衛星語音訊息展示與漫遊合作",
+          "summary": "Iridium、Deutsche Telekom IoT 與 Toyota 示範衛星語音訊息；新漫遊協議延伸 IoT 覆蓋。技術展示不等於已大規模收費商用。",
+          "url": "https://www.prnewswire.com/news-releases/iridium-deutsche-telekom-iot-and-toyota-demonstrate-voice-messaging-over-satellite-via-iridium-ntn-direct-302874891.html",
+          "source": "公司新聞稿／PR Newswire"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Rocket Lab 收購案讓股價曝險轉向交易條件",
+          "summary": "6 月 29 日公布的收購對價包括現金及有區間條款的 RKLB 股票，交易仍待完成。不能把公告時名目對價當作保證兌現的價格。",
+          "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+          "source": "Rocket Lab／Iridium"
+        }
+      ],
+      "sector": "衛星通訊／併購標的",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "正常營運仍重要，但未完成的 RKLB 收購使交易條件成為股價的重要因素。 依目前 0.1671% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0167 個百分點；這不是報酬預測。",
+        "upside": "漫遊商用化或收購順利完成可支持價值。",
+        "downside": "交易破局、延後或換股對價變化會改變投資結果。",
+        "watch": "追蹤股東與監管批准、對價區間條款及訂閱服務成長。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "LASR",
+      "name": "nLight Inc",
+      "weight": 0.126627,
+      "returnWeight": 0.150088,
+      "newSincePrior": false,
+      "price": 38.95,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.1538,
+      "change1m": -7.8543,
+      "change3m": -44.0534,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/lasr/history/"
+      },
+      "sparkline": [
+        42.27,
+        40.32,
+        39.39,
+        41.47,
+        40.06,
+        41.53,
+        40.99,
+        39.29,
+        40.37,
+        38.45,
+        37.92,
+        38.56,
+        38.43,
+        39.84,
+        40.19,
+        41.2,
+        40.98,
+        40.62,
+        40.33,
+        39.55,
+        39.01,
+        38.95
+      ],
+      "news": [
+        {
+          "date": "2026-08-06",
+          "title": "第二季增長強勁，但供應鏈延後部分出貨",
+          "summary": "營收 8,260 萬美元、年增 33.8%；公司表示第三季指引排除約 1,700 萬美元延後交付的產品收入。公告對指引中點的文字與區間不一致，本頁不引用該中點。",
+          "url": "https://www.businesswire.com/news/home/20260806265893/en/nLIGHT-Inc.-Announces-Second-Quarter-2026-Results/",
+          "source": "公司新聞稿／Business Wire"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "雷射武器初始合約 4,400 萬美元",
+          "summary": "JLWS 初始授予金額為 4,400 萬美元；包括後續開發的計畫上限達 6.27 億美元。上限與已確定授予必須區分。",
+          "url": "https://www.businesswire.com/news/home/20260709375006/en/nLIGHT-Awarded-627-Million-Joint-Laser-Weapon-System-JLWS-Contract/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "高功率雷射／定向能",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "medium",
+        "thesis": "雷射武器初始訂單支持長期需求，但供應鏈延遲已影響近期收入節奏。 依目前 0.1266% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0127 個百分點；這不是報酬預測。",
+        "upside": "初始任務成功後，後續開發與量產可擴大機會。",
+        "downside": "延後出貨、低開發利潤與未使用的合約上限可能限制獲利。",
+        "watch": "追蹤延遲的 1,700 萬美元出貨及後續確定授予，避免只看上限。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "PSN",
+      "name": "Parsons Corp",
+      "weight": 0.126,
+      "returnWeight": 0.164348,
+      "newSincePrior": false,
+      "price": 40.97,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.3959,
+      "change1m": -15.7689,
+      "change3m": -21.7981,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/psn/history/"
+      },
+      "sparkline": [
+        48.64,
+        46.37,
+        45.37,
+        46.35,
+        47.58,
+        47.59,
+        46.29,
+        45.88,
+        45.75,
+        46.94,
+        46.65,
+        46.49,
+        46.17,
+        44.82,
+        45.33,
+        44.09,
+        43.82,
+        42.44,
+        43.07,
+        41.6,
+        41.55,
+        40.97
+      ],
+      "news": [
+        {
+          "date": "2026-09-29",
+          "title": "取得太空司令部新總部 8,500 萬美元協議",
+          "summary": "Parsons 獲授 OTA 協議，支援位於 Redstone Arsenal 的新指揮設施。工程執行及階段性履約影響收入節奏。",
+          "url": "https://www.globenewswire.com/news-release/2026/09/29/3370621/0/en/parsons-awarded-85m-agreement-to-deliver-new-u-s-space-command-headquarters.html",
+          "source": "公司新聞稿／GlobeNewswire"
+        }
+      ],
+      "sector": "國防工程／設施服務",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "太空司令部設施協議提供具體工作量，但工程節點決定收入節奏。 依目前 0.1260% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0126 個百分點；這不是報酬預測。",
+        "upside": "按期履約、後續服務及任務擴充可支持成長。",
+        "downside": "工程變更、人工成本和政府時程延後可能壓縮收益。",
+        "watch": "關注里程碑、實際撥款、毛利與收款。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "HAWK",
+      "name": "Hawkeye 360 Inc",
+      "weight": 0.125446,
+      "returnWeight": 0.150425,
+      "newSincePrior": false,
+      "price": 15.1,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.8205,
+      "change1m": -20.3586,
+      "change3m": -25.3215,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/hawk/history/"
+      },
+      "sparkline": [
+        18.96,
+        18.36,
+        17.65,
+        17.32,
+        17.36,
+        17.83,
+        16.45,
+        16.42,
+        16.3,
+        16.38,
+        16.49,
+        16.17,
+        17.28,
+        16.27,
+        16.26,
+        15.97,
+        15.83,
+        16.0,
+        16.1,
+        15.51,
+        15.38,
+        15.1
+      ],
+      "news": [
+        {
+          "date": "2026-09-24",
+          "title": "中東訊號情報合約約 1,800 萬美元",
+          "summary": "HawkEye 360 公布區域客戶合約，擴大既有國安任務合作。實際回報需觀察資料交付與收款。",
+          "url": "https://www.prnewswire.com/news-releases/hawkeye-360-secures-approximately-18-million-in-middle-east-contract-awards-302889217.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "射頻訊號情報",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "low",
+        "thesis": "中東合約擴大國安資料服務需求，單一小型持股對 PPA 的直接貢獻有限。 依目前 0.1254% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0125 個百分點；這不是報酬預測。",
+        "upside": "既有客戶擴約與星座能力提升可增加收入。",
+        "downside": "地緣政治、客戶集中、衛星運行及融資需求增加不確定性。",
+        "watch": "看合約續期、收入認列、衛星利用率與現金跑道。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "LYNX",
+      "name": "Lyntris Inc",
+      "weight": 0.119439,
+      "returnWeight": 0,
+      "newSincePrior": true,
+      "price": 12.34,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.6441,
+      "change1m": -9.1311,
+      "change3m": null,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/lynx/history/"
+      },
+      "sparkline": [
+        13.58,
+        13.72,
+        13.15,
+        13.08,
+        12.67,
+        13.14,
+        12.78,
+        12.39,
+        12.74,
+        13.46,
+        13.46,
+        13.67,
+        13.44,
+        13.69,
+        13.33,
+        13.3,
+        12.98,
+        12.96,
+        12.86,
+        12.27,
+        12.42,
+        12.34
+      ],
+      "news": [
+        {
+          "date": "2026-09-29",
+          "title": "獲 Raytheon 多年 LTAMDS 雷達生產合作",
+          "summary": "Lyntris 宣布在擴大長期採購協議下支援 LTAMDS 雷達生產。合約與 RTX 的需求連動，不是獨立於大型持股的風險來源。",
+          "url": "https://www.prnewswire.com/news-releases/lyntris-selected-by-raytheon-to-support-multi-year-ltamds-radar-production-under-expanded-long-term-agreement-302892115.html",
+          "source": "公司新聞稿／PR Newswire"
+        },
+        {
+          "date": "2026-09-24",
+          "title": "完成 SPY-6 雷達關鍵組件資格認定",
+          "summary": "歷時兩年的認證工作與 Raytheon、美國海軍合作完成，有助降低供應鏈風險。資格認定仍需轉化為實際交付量。",
+          "url": "https://www.prnewswire.com/news-releases/lyntris-qualifies-critical-spy-6-radar-assembly-strengthening-the-supply-chain-for-advanced-naval-radar-302888975.html",
+          "source": "公司新聞稿／PR Newswire"
+        }
+      ],
+      "sector": "雷達／射頻子系統",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "low",
+        "thesis": "雷達認證和長期合作有助進入生產供應鏈，但上市歷史短、與 RTX 需求集中使風險較高。 依目前 0.1194% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0119 個百分點；這不是報酬預測。",
+        "upside": "LTAMDS 與 SPY-6 增產可增加零件交付。",
+        "downside": "客戶集中、資格維持與爬坡成本可能延後收益。",
+        "watch": "追蹤確定訂單、量產良率及現金流；缺少六月底股價，不計完整第三季漲跌。"
+      },
+      "priceNote": "8 月上市，缺少 6 月 30 日價格，無法計算完整第三季報酬。"
+    },
+    {
+      "ticker": "VOYG",
+      "name": "Voyager Technologies Inc",
+      "weight": 0.10728,
+      "returnWeight": 0.147219,
+      "newSincePrior": false,
+      "price": 30.25,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.594,
+      "change1m": -10.0506,
+      "change3m": -6.2016,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/voyg/history/"
+      },
+      "sparkline": [
+        33.63,
+        32.96,
+        33.27,
+        32.68,
+        33.94,
+        35.41,
+        33.75,
+        32.97,
+        33.78,
+        33.1,
+        34.51,
+        35.18,
+        36.6,
+        35.87,
+        37.66,
+        37.53,
+        31.4,
+        31.1,
+        31.35,
+        33.18,
+        30.74,
+        30.25
+      ],
+      "news": [
+        {
+          "date": "2026-09-29",
+          "title": "與 Anduril 建立武器及推進技術合作",
+          "summary": "戰略合作涵蓋開發、測試、認證與生產。合作關係擴大商機，但不等同所有未來採購已經確定。",
+          "url": "https://www.businesswire.com/news/home/20260929269729/en/Anduril-and-Voyager-Establish-Strategic-Partnership-Across-Advanced-Weapons-and-Propulsion/",
+          "source": "公司新聞稿／Business Wire"
+        },
+        {
+          "date": "2026-09-28",
+          "title": "完成 4.025 億美元可轉換債發行",
+          "summary": "公司完成零息可轉換優先債發行。這補充資金，也增加將來轉股稀釋或償債的可能。",
+          "url": "https://www.businesswire.com/news/home/20260928028412/en/Voyager-Technologies-Inc.-Completes-402.5-Million-Convertible-Senior-Notes-Offering/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "太空／國防推進",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "low",
+        "thesis": "技術合作與募資補充發展資源，實際回報仍依賴認證、訂單與資本紀律。 依目前 0.1073% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0107 個百分點；這不是報酬預測。",
+        "upside": "Anduril 合作若轉成量產可帶來需求。",
+        "downside": "開發失敗、現金消耗與可轉債稀釋可能抵銷成長。",
+        "watch": "觀察付費任務、認證、現金用途與潛在股數變動。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "CDRE",
+      "name": "Cadre Holdings Inc",
+      "weight": 0.080119,
+      "returnWeight": 0.102313,
+      "newSincePrior": false,
+      "price": 25.09,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -1.7235,
+      "change1m": -15.408,
+      "change3m": -11.9958,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/cdre/history/"
+      },
+      "sparkline": [
+        29.66,
+        28.45,
+        28.61,
+        29.88,
+        29.76,
+        29.66,
+        29.12,
+        28.77,
+        28.58,
+        28.62,
+        27.64,
+        26.42,
+        26.1,
+        26.29,
+        26.63,
+        26.88,
+        26.7,
+        26.21,
+        26.39,
+        26.06,
+        25.53,
+        25.09
+      ],
+      "news": [
+        {
+          "date": "2026-08-05",
+          "title": "上調全年營收展望，積壓訂單創高",
+          "summary": "公司把全年營收預期提高至 7.49–7.69 億美元；第二季營收 2.071 億美元、年增約 32%，積壓訂單達 3.68 億美元。",
+          "url": "https://www.businesswire.com/news/home/20260805587548/en/Cadre-Holdings-Reports-Second-Quarter-2026-Financial-Results/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "安全裝備／防護",
+      "assessment": {
+        "direction": "positive",
+        "confidence": "medium",
+        "thesis": "實際營收與積壓訂單上升，支持防護裝備需求改善，對 PPA 提供小幅多元化。 依目前 0.0801% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0080 個百分點；這不是報酬預測。",
+        "upside": "交付與效率提升可兌現上調展望。",
+        "downside": "原料、採購時點與客戶預算可能使季度增長波動。",
+        "watch": "追蹤訂單轉換、現金流與全年指引達成率。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "AVEX",
+      "name": "Aevex Corp",
+      "weight": 0.073938,
+      "returnWeight": 0,
+      "newSincePrior": true,
+      "price": 15.14,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -0.3292,
+      "change1m": -13.9773,
+      "change3m": -27.5251,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/avex/history/"
+      },
+      "sparkline": [
+        17.6,
+        16.89,
+        15.74,
+        16.32,
+        16.47,
+        17.11,
+        16.37,
+        15.91,
+        16.08,
+        16.26,
+        16.13,
+        16.17,
+        16.68,
+        16.2,
+        16.51,
+        15.9,
+        16.44,
+        16.68,
+        16.07,
+        15.39,
+        15.19,
+        15.14
+      ],
+      "news": [
+        {
+          "date": "2026-09-09",
+          "title": "新增 2,050 萬美元單向攻擊系統合約",
+          "summary": "AEVEX 宣布取得美國政府新訂單，支援交付及持續研發。訂單有助量產需求，但驗收與成本控制決定獲利。",
+          "url": "https://www.businesswire.com/news/home/20260909186808/en/AEVEX-Secures-20.5M-in-New-Awards-to-Deliver-and-Advance-One%E2%80%91Way-Attack-Systems/",
+          "source": "公司新聞稿／Business Wire"
+        },
+        {
+          "date": "2026-09-08",
+          "title": "完成 BlackSea Technologies 收購",
+          "summary": "公司宣布收購交割完成，擴充無人水面與水下系統。跨領域業務的整合效率及資金需求值得追蹤。",
+          "url": "https://www.businesswire.com/news/home/20260908188362/en/AEVEX-Completes-Acquisition-of-BlackSea-Technologies-Creating-One-of-the-Defense-Industry%E2%80%99s-Most-Capable-Multi%E2%80%91Domain-Autonomous-Systems-Providers/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "無人載具／任務科技",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "low",
+        "thesis": "新合約與 BlackSea 收購擴大多領域無人系統機會，但同時增加整合與交付要求。 依目前 0.0739% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0074 個百分點；這不是報酬預測。",
+        "upside": "政府無人系統需求及跨產品協同可擴大收入。",
+        "downside": "收購整合、驗收、競爭及資本需求可能侵蝕報酬。",
+        "watch": "追蹤確定訂單交付、有機收入及整合成本，不以產品發布等同營收。"
+      },
+      "priceNote": ""
+    },
+    {
+      "ticker": "BKSY",
+      "name": "BlackSky Technology Inc",
+      "weight": 0.072585,
+      "returnWeight": 0.082254,
+      "newSincePrior": false,
+      "price": 21.31,
+      "currency": "USD",
+      "priceDate": "2026-09-30",
+      "change1d": -2.6496,
+      "change1m": -7.7489,
+      "change3m": -23.6748,
+      "priceSource": {
+        "title": "Stock Analysis 每日收盤價",
+        "url": "https://stockanalysis.com/stocks/bksy/history/"
+      },
+      "sparkline": [
+        23.1,
+        21.45,
+        21.76,
+        20.63,
+        20.5,
+        22.08,
+        21.61,
+        20.75,
+        20.61,
+        20.8,
+        21.38,
+        21.52,
+        22.76,
+        21.67,
+        23.17,
+        23.19,
+        22.25,
+        23.17,
+        23.25,
+        22.95,
+        21.89,
+        21.31
+      ],
+      "news": [
+        {
+          "date": "2026-09-30",
+          "title": "成為 SkyFi 在 Robinhood 應用中的影像供應商",
+          "summary": "BlackSky 宣布新的衛星情報分銷管道。新增接觸客群不等於已揭露大額營收，需要觀察付費使用量。",
+          "url": "https://www.businesswire.com/news/home/20260930863449/en/BlackSky-Named-First-Satellite-Imagery-Provider-for-SkyFi-%E2%80%98Satellite-Intelligence%E2%80%99-on-Robinhood-Agent-Apps/",
+          "source": "公司新聞稿／Business Wire"
+        },
+        {
+          "date": "2026-09-14",
+          "title": "第五顆 Gen-3 完成首次成像",
+          "summary": "公司宣布衛星在數小時內取得首次影像。首次成像是技術里程碑，後續品質驗收與商業利用率仍需確認。",
+          "url": "https://www.businesswire.com/news/home/20260913076796/en/BlackSky%E2%80%99s-Fifth-Gen-3-Attains-First-Light-in-Hours-Expanding-Constellation-Capacity-and-Decision-Making-Speed-for-Customers/",
+          "source": "公司新聞稿／Business Wire"
+        }
+      ],
+      "sector": "地理情報／衛星影像",
+      "assessment": {
+        "direction": "mixed",
+        "confidence": "low",
+        "thesis": "新通路與衛星技術進展拓展機會，但仍需要使用率和收費訂單證明商業效益。 依目前 0.0726% 比重，若其股價單獨變動 10%，PPA 的機械式敏感度約為 0.0073 個百分點；這不是報酬預測。",
+        "upside": "高解析影像與新客戶採用可擴大服務收入。",
+        "downside": "發射風險、資料需求不足及資金需求可能延後獲利。",
+        "watch": "看正式服務啟用、付費使用量、積壓訂單及現金消耗。"
+      },
+      "priceNote": ""
+    }
+  ],
+  "sources": [
+    {
+      "id": "invesco",
+      "title": "Invesco 官方完整持股 API（可變動）",
+      "url": "https://dng-api.invesco.com/cache/v1/accounts/en_US/shareclasses/46137V100/holdings/fund?idType=cusip&productType=ETF",
+      "date": "2026-09-30",
+      "type": "基金發行人"
+    },
+    {
+      "id": "fund-prices",
+      "title": "PPA 歷史每日收盤價格",
+      "url": "https://stockanalysis.com/etf/ppa/history/",
+      "date": "2026-09-30",
+      "type": "Stock Analysis"
+    },
+    {
+      "id": "holdings-snapshot",
+      "title": "本次官方持股原始 JSON 快照",
+      "url": "https://chiayaochen.github.io/ChatGPTwork/research/ppa-invesco-raw.json",
+      "date": "2026-09-30",
+      "type": "封存資料"
+    },
+    {
+      "id": "prices-snapshot",
+      "title": "本次全部價格、基準日與歷史序列",
+      "url": "https://chiayaochen.github.io/ChatGPTwork/research/prices.json",
+      "date": "2026-09-30",
+      "type": "可重算資料"
+    }
+  ],
+  "methodology": [
+    "完整範圍：Invesco 9 月 30 日列出 69 筆項目，其中 66 檔普通股，股票比重合計 100.109813%。最新查核時官方 API 的有效日期為 9 月 30 日。",
+    "另 3 筆為證券借貸會計項目（比重 0%、市值 0.01 美元）、USD 現金及等價物（比重 -0.109813%）、待收股息（507,180.08 美元、官方未列比重）。保留官方分類與空值；不把待收股息再加入股票權重，不把負現金改成零。",
+    "股票報價以公開歷史表為準，66 檔當日收盤均與官方持股市值÷股數核對至 0.03 美元以內；MDA、ESLT、CAE 採美國掛牌美元報價，不混入本國市場幣別。",
+    "單日＝9 月 30 日收盤÷9 月 29 日收盤−1；9 月＝9 月 30 日÷8 月 31 日−1；第三季＝9 月 30 日÷6 月 30 日−1。乘以 100 顯示百分比。採來源分割調整後的收盤價，並非含配息調整的總報酬。",
+    "單日估計貢獻（百分點）＝9 月 29 日股票比重（%）×9 月 30 日價格變化（%）÷100。新增 5 檔前日快照不存在，因此此估計的前日比重為 0；並非宣稱調整當日完全沒有損益。",
+    "前日 61 檔合計估計貢獻 -0.8998 個百分點；PPA 實際市場價格變化 -0.8465%。差異可能包括換股、交易時點、現金、費用及折溢價，無足夠資料拆解各原因。",
+    "敏感度試算＝最新持股比重（%）×假設個股漲跌（%）÷100，假設其他價格、權重不變；不包含相關性、再平衡或複利，不是情境機率模型。",
+    "每檔研究列出公告日期、中文摘要及原始來源。事實摘要與分析推論分欄；合約上限、選擇權、框架、MOU、未完成收購與已實現收入分開處理。",
+    "方向以事件如何影響需求、利潤與現金流判讀；中等信心代表有可查證財務／合約但仍有執行條件，低信心用於早期技術、未量化合作及較高事件不確定性。沒有以利多篇數產生分數。",
+    "個別新聞與價格來源在點選股票後列出；完整中文研究和數據可下載 JSON。下次更新需重新核對持股、價格與新聞；這份資料不會自動刷新。"
+  ]
+}
