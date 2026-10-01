@@ -1,6 +1,6 @@
 # PPAcheck 工作狀態
 
-需求與授權：在公開的 chiayaochen/ChatGPTwork 儲存庫 gh-pages 建立、提交、推送 PPAcheck.html，啟用並驗證 GitHub Pages。已獲使用者明確授權。
+需求與授權：在公開的 chiayaochen/PPAcheck 儲存庫 gh-pages 建立、提交、推送 PPAcheck.html，啟用並驗證 GitHub Pages。已獲使用者明確授權。
 
 已完成內容：官方最新持股於本次重新查核後更新至 2026-09-30，共 69 筆、66 檔普通股。新增 SPCX、MDA、AADX、LYNX、AVEX；原 61 檔皆保留。66 檔及 PPA 皆有 9/30 美股美元收盤資料、單日及 9 月價格變化；65 檔有第三季完整期間資料，LYNX 因尚未上市無 6/30 基準，明確留空。
 
@@ -12,6 +12,8 @@
 
 完成狀態：網頁內容已提交 a00fea1 並推送 gh-pages。公開 HTML 與 JSON 皆 HTTP 200，JSON 與本機位元組一致，公開瀏覽器可載入全部 66 檔並操作搜尋／個股詳情。驗證證據及資料限制詳見 research/QA.md。沒有尚未完成的必要工作。
 
-公開網址：https://chiayaochen.github.io/ChatGPTwork/PPAcheck.html
+公開網址：https://chiayaochen.github.io/PPAcheck/PPAcheck.html
 
 之後如要更新：先讀本檔與 README.md，保留現有網頁及研究；重新抓取官方最新持股與報價、查核新聞，修改日期和基準，再建置、測試及發布。這是新一輪更新，不要把本次快照誤當作尚未完成。
+
+2026-10-01 重新命名：GitHub 儲存庫與專案名稱改為 PPAcheck；origin 為 git@github.com:chiayaochen/PPAcheck.git。網站與建置腳本中的封存來源網址皆已同步改為 /PPAcheck/。本機資料夾使用 /Users/chiayaombp2023/Documents/ChatGPT/PPAcheck，舊路徑保留相容符號連結供目前 Codex 聊天使用。Codex 側欄名稱尚須使用者手動修改，因電腦操作工具禁止操作 Codex 介面。

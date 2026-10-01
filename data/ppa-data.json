@@ -4297,14 +4297,14 @@
     {
       "id": "holdings-snapshot",
       "title": "本次官方持股原始 JSON 快照",
-      "url": "https://chiayaochen.github.io/ChatGPTwork/research/ppa-invesco-raw.json",
+      "url": "https://chiayaochen.github.io/PPAcheck/research/ppa-invesco-raw.json",
       "date": "2026-09-30",
       "type": "封存資料"
     },
     {
       "id": "prices-snapshot",
       "title": "本次全部價格、基準日與歷史序列",
-      "url": "https://chiayaochen.github.io/ChatGPTwork/research/prices.json",
+      "url": "https://chiayaochen.github.io/PPAcheck/research/prices.json",
       "date": "2026-09-30",
       "type": "可重算資料"
     }

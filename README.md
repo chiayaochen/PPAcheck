@@ -1,6 +1,6 @@
-# ChatGPTwork — PPAcheck
+# PPAcheck
 
-公開網頁：[PPAcheck.html](https://chiayaochen.github.io/ChatGPTwork/PPAcheck.html)。GitHub Pages 使用 `gh-pages` 根目錄，網站為無需登入的靜態頁面。
+公開網頁：[PPAcheck.html](https://chiayaochen.github.io/PPAcheck/PPAcheck.html)。GitHub Pages 使用 `gh-pages` 根目錄，網站為無需登入的靜態頁面。
 
 本次資料：Invesco 官方持股與美股收盤截至 **2026-09-30**，於 **2026-10-01** 查核。完整包含 66 檔普通股、3 筆現金／會計項目、96 則精選新聞及每檔條件式影響分析。資料快照不自動更新。
 
