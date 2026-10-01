@@ -46,3 +46,5 @@
 ## 儲存庫重新命名（2026-10-01）
 
 GitHub 設定已將 chiayaochen/ChatGPTwork 更名為 chiayaochen/PPAcheck。Pages 設定顯示新根網址 https://chiayaochen.github.io/PPAcheck/，來源仍為 gh-pages、/ (root)，HTTPS 已勾選。上述舊網址與舊 JSON 雜湊是首次部署的歷史驗證紀錄。README、入口標題、續作說明、資料及建置腳本的封存來源網址已更新。研究數據、日期及分析內容保持相同。
+
+更名發布驗證：提交 cfe3ce7 已推送 gh-pages。新 HTML 與 JSON GET 皆 HTTP 200，公開 JSON（v=cfe3ce7）位元組與本機一致；SHA256 4caf73c5ddc3c4f6ff55cfb34c7a6c30b67957a9435b6f09a6a4dcc9dc0ac958。新網址實際瀏覽器載入 66 檔及基金價格 154.62 USD。
